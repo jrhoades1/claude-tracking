@@ -7,15 +7,14 @@ Stop hook in ~/.claude/settings.json.
 Reads JSON payload from stdin (provided by Claude Code hook system):
   {
     "session_id": "...",
+    "transcript_path": "C:\\Users\\Tracy\\.claude\\projects\\...\\session.jsonl",
     "cwd": "C:\\Users\\Tracy\\Projects\\some-project",
-    "hook_event_name": "Stop",
-    "usage": {
-      "input_tokens": 12345,
-      "output_tokens": 2345,
-      "cache_creation_input_tokens": 4567,
-      "cache_read_input_tokens": 89012
-    }
+    "hook_event_name": "Stop"
   }
+
+Token usage is NOT included in the Stop hook payload. Instead, the script
+reads the session transcript JSONL file (path provided in the payload) and
+sums up usage from each assistant message's `message.usage` field.
 
 Project code is read from .claude/project-code.txt in the session's working
 directory. Falls back to the directory name if the file doesn't exist.
@@ -63,17 +62,68 @@ def get_project_code(cwd: str) -> str:
     return Path(cwd).name
 
 
+def read_usage_from_transcript(transcript_path: str) -> dict:
+    """
+    Parse the session transcript JSONL and sum token usage across all messages.
+
+    Each assistant message in the transcript has a `message.usage` dict with:
+      input_tokens, output_tokens, cache_creation_input_tokens, cache_read_input_tokens
+
+    Returns a dict with the summed totals.
+    """
+    totals = {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+    }
+
+    path = Path(transcript_path)
+    if not path.exists():
+        return totals
+
+    try:
+        with path.open(encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    obj = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                msg = obj.get("message", {})
+                if not isinstance(msg, dict):
+                    continue
+                usage = msg.get("usage", {})
+                if not usage:
+                    continue
+                totals["input_tokens"] += usage.get("input_tokens", 0)
+                totals["output_tokens"] += usage.get("output_tokens", 0)
+                totals["cache_creation_input_tokens"] += usage.get(
+                    "cache_creation_input_tokens", 0
+                )
+                totals["cache_read_input_tokens"] += usage.get(
+                    "cache_read_input_tokens", 0
+                )
+    except (OSError, UnicodeDecodeError):
+        pass
+
+    return totals
+
+
 def main() -> None:
     try:
         payload = json.load(sys.stdin)
     except (json.JSONDecodeError, ValueError):
-        # If we can't read the payload, write a minimal error row so we know
-        # the hook fired but failed — don't silently drop the event.
         payload = {}
 
-    usage = payload.get("usage", {})
     cwd = payload.get("cwd", os.getcwd())
     now = datetime.now(timezone.utc)
+
+    # Read token usage from the transcript file
+    transcript_path = payload.get("transcript_path", "")
+    usage = read_usage_from_transcript(transcript_path) if transcript_path else {}
 
     row = {
         "date": now.strftime("%Y-%m-%d"),
