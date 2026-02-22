@@ -31,6 +31,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 LOG_FILE = Path("C:/Users/Tracy/Projects/claude-tracking/sessions.csv")
+REGISTRY_FILE = Path("C:/Users/Tracy/Projects/claude-tracking/projects.json")
 
 FIELDNAMES = [
     "date",
@@ -112,6 +113,27 @@ def read_usage_from_transcript(transcript_path: str) -> dict:
     return totals
 
 
+def update_project_registry(project_code: str, cwd: str) -> None:
+    """
+    Upsert the project into projects.json so report.py can find billing.json
+    files for all known projects, even those with no sessions in a given month.
+    """
+    try:
+        registry: dict = {}
+        if REGISTRY_FILE.exists():
+            registry = json.loads(REGISTRY_FILE.read_text(encoding="utf-8"))
+
+        now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        registry[project_code] = {"cwd": cwd, "last_seen": now_str}
+
+        REGISTRY_FILE.write_text(
+            json.dumps(registry, indent=2, ensure_ascii=False) + "\n",
+            encoding="utf-8",
+        )
+    except Exception:
+        pass  # Never let registry failure break session logging
+
+
 def main() -> None:
     try:
         payload = json.load(sys.stdin)
@@ -145,6 +167,8 @@ def main() -> None:
         if write_header:
             writer.writeheader()
         writer.writerow(row)
+
+    update_project_registry(row["project_code"], cwd)
 
 
 if __name__ == "__main__":
