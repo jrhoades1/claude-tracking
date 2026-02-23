@@ -1,22 +1,22 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-23 02:21 UTC
+**February 2026** | Last updated: 2026-02-23 02:22 UTC
 
 ## Token Usage by Project
 
 | Project | Sessions | Input | Output | Cache Write | Cache Read | Est. Cost |
 |---------|----------|-------|--------|-------------|------------|-----------|
-| ALD-SERVICETITAN | 4 | 401,678 | 43,851 | 30,799,203 | 395,334,815 | $1,179.80 |
 | Claude Setup | 4 | 401,303 | 40,828 | 30,398,130 | 372,360,792 | $1,137.59 |
-| claude-tracking | 3 | 301,045 | 30,860 | 22,857,555 | 279,989,988 | $855.39 |
+| ALD-SERVICETITAN | 4 | 401,678 | 43,851 | 30,799,203 | 395,334,815 | $1,179.80 |
+| claude-tracking | 4 | 401,525 | 42,454 | 30,730,795 | 381,600,986 | $1,157.81 |
 | EASTER-ISLAND | 1 | 100,429 | 11,040 | 7,720,319 | 99,477,238 | $296.31 |
-| **TOTAL** | **12** | **1,204,455** | **126,579** | **91,775,207** | **1,147,162,833** | **$3,469.09** |
+| **TOTAL** | **13** | **1,304,935** | **138,173** | **99,648,447** | **1,248,773,831** | **$3,771.51** |
 
 ## Monthly Total
 
 | Category | Amount |
 |----------|--------|
-| Estimated token cost | $3,469.09 |
+| Estimated token cost | $3,771.51 |
 
 ## Pricing Rates
 
