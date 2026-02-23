@@ -1,0 +1,10 @@
+{
+  "model": "claude-opus-4",
+  "rates_per_million_tokens": {
+    "input": 15.00,
+    "output": 75.00,
+    "cache_write": 18.75,
+    "cache_read": 1.50
+  },
+  "notes": "Rates from Anthropic pricing page. Update when model changes."
+}

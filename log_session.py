@@ -170,6 +170,13 @@ def main() -> None:
 
     update_project_registry(row["project_code"], cwd)
 
+    # Update the README dashboard and push to GitHub
+    try:
+        from update_dashboard import main as update_dashboard
+        update_dashboard()
+    except Exception:
+        pass  # Dashboard update must never break session logging
+
 
 if __name__ == "__main__":
     main()
