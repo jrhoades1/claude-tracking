@@ -1,31 +1,27 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-23 02:22 UTC
+**February 2026** | Last updated: 2026-02-23 16:58 UTC
 
-## Token Usage by Project
+> **Plan:** Claude Pro ($100.00/mo)
+>
+> Subscription cost is allocated across projects by share of total token usage.
 
-| Project | Sessions | Input | Output | Cache Write | Cache Read | Est. Cost |
-|---------|----------|-------|--------|-------------|------------|-----------|
-| Claude Setup | 4 | 401,303 | 40,828 | 30,398,130 | 372,360,792 | $1,137.59 |
-| ALD-SERVICETITAN | 4 | 401,678 | 43,851 | 30,799,203 | 395,334,815 | $1,179.80 |
-| claude-tracking | 4 | 401,525 | 42,454 | 30,730,795 | 381,600,986 | $1,157.81 |
-| EASTER-ISLAND | 1 | 100,429 | 11,040 | 7,720,319 | 99,477,238 | $296.31 |
-| **TOTAL** | **13** | **1,304,935** | **138,173** | **99,648,447** | **1,248,773,831** | **$3,771.51** |
+## Usage by Project
+
+| Project | Sessions | Input | Output | Cache | Share | Allocated |
+|---------|----------|-------|--------|-------|-------|-----------|
+| claude-tracking | 4 | 401,525 | 42,454 | 412,331,781 | 31% | $30.58 |
+| Claude Setup | 4 | 401,303 | 40,828 | 402,758,922 | 30% | $29.87 |
+| ALD-SERVICETITAN | 4 | 401,678 | 43,851 | 426,134,018 | 32% | $31.60 |
+| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | 8% | $7.95 |
+| **TOTAL** | **13** | **1,304,935** | **138,173** | **1,348,422,278** | **100%** | **$100.00** |
 
 ## Monthly Total
 
 | Category | Amount |
 |----------|--------|
-| Estimated token cost | $3,771.51 |
-
-## Pricing Rates
-
-| Token Type | Rate (per 1M tokens) |
-|------------|---------------------|
-| Input | $15.00 |
-| Output | $75.00 |
-| Cache Write | $18.75 |
-| Cache Read | $1.50 |
+| Claude Pro subscription | $100.00 |
+| **Total** | **$100.00** |
 
 ---
 
