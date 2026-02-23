@@ -39,3 +39,4 @@ date,time_utc,project_code,cwd,session_id,input_tokens,output_tokens,cache_creat
 2026-02-23,22:20:53,mnt,C:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,577,704,280784,4430132
 2026-02-23,22:22:49,mnt,C:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,582,744,281940,4767808
 2026-02-23,22:25:24,dark-software-factory,C:\Users\Tracy\Projects\dark-software-factory,0cc266d7-96aa-4add-8ae7-15aa877d53d5,587,785,284699,5109839
+2026-02-23,22:25:41,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,590,787,284732,5225970
