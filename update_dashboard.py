@@ -29,29 +29,35 @@ PRICING_PATH = REPO_DIR / "pricing.json"
 
 
 def load_pricing() -> dict:
-    """Load token pricing rates from pricing.json. Returns sensible defaults if missing."""
+    """Load pricing config from pricing.json."""
     defaults = {
-        "input": 15.0,
-        "output": 75.0,
-        "cache_write": 18.75,
-        "cache_read": 1.50,
+        "billing_model": "subscription",
+        "monthly_cost": 100.0,
+        "plan": "Claude Pro",
     }
     try:
         data = json.loads(PRICING_PATH.read_text(encoding="utf-8"))
-        rates = data.get("rates_per_million_tokens", {})
-        return {k: float(rates.get(k, defaults[k])) for k in defaults}
+        model = data.get("billing_model", "subscription")
+        if model == "subscription":
+            sub = data.get("subscription", {})
+            return {
+                "billing_model": "subscription",
+                "monthly_cost": float(sub.get("monthly_cost", 100.0)),
+                "plan": sub.get("plan", "Claude Pro"),
+            }
+        return defaults
     except (OSError, json.JSONDecodeError, ValueError):
         return defaults
 
 
-def compute_token_cost(t: dict, rates: dict) -> float:
-    """Compute estimated USD cost for a project's token usage."""
-    cost = 0.0
-    cost += t["input_tokens"] * rates["input"] / 1_000_000
-    cost += t["output_tokens"] * rates["output"] / 1_000_000
-    cost += t["cache_creation_tokens"] * rates["cache_write"] / 1_000_000
-    cost += t["cache_read_tokens"] * rates["cache_read"] / 1_000_000
-    return cost
+def total_tokens(t: dict) -> int:
+    """Sum all token types for a project (used for proportional allocation)."""
+    return (
+        t["input_tokens"]
+        + t["output_tokens"]
+        + t["cache_creation_tokens"]
+        + t["cache_read_tokens"]
+    )
 
 
 def generate_readme(month: str) -> str:
@@ -60,7 +66,7 @@ def generate_readme(month: str) -> str:
     sessions = load_sessions(month=month)
     totals = summarize(sessions)
     registry = load_project_registry()
-    rates = load_pricing()
+    pricing = load_pricing()
 
     try:
         period_label = datetime.strptime(month, "%Y-%m").strftime("%B %Y")
@@ -73,34 +79,46 @@ def generate_readme(month: str) -> str:
     lines.append(f"**{period_label}** | Last updated: {now.strftime('%Y-%m-%d %H:%M UTC')}")
     lines.append("")
 
+    monthly_cost = pricing["monthly_cost"]
+    plan_name = pricing["plan"]
+
+    lines.append(f"> **Plan:** {plan_name} ({fmt_usd(monthly_cost)}/mo)")
+    lines.append(">")
+    lines.append("> Subscription cost is allocated across projects by share of total token usage.")
+    lines.append("")
+
     if not totals:
         lines.append("_No sessions recorded this month._")
         lines.append("")
         return "\n".join(lines)
 
-    # --- Per-project token table ---
-    lines.append("## Token Usage by Project")
-    lines.append("")
-    lines.append("| Project | Sessions | Input | Output | Cache Write | Cache Read | Est. Cost |")
-    lines.append("|---------|----------|-------|--------|-------------|------------|-----------|")
+    # Calculate grand total tokens for proportional allocation
+    grand_total_tokens = sum(total_tokens(t) for t in totals.values())
 
-    grand_token_cost = 0.0
+    # --- Per-project table ---
     all_codes = set(totals.keys())
     if registry:
         all_codes |= set(registry.keys())
 
+    lines.append("## Usage by Project")
+    lines.append("")
+    lines.append("| Project | Sessions | Input | Output | Cache | Share | Allocated |")
+    lines.append("|---------|----------|-------|--------|-------|-------|-----------|")
+
     for code in sorted(all_codes, key=lambda c: -(totals.get(c, {}).get("sessions", 0))):
         t = totals.get(code)
         if t:
-            cost = compute_token_cost(t, rates)
-            grand_token_cost += cost
+            proj_tokens = total_tokens(t)
+            share = proj_tokens / grand_total_tokens if grand_total_tokens > 0 else 0
+            allocated = monthly_cost * share
+            cache_total = t["cache_creation_tokens"] + t["cache_read_tokens"]
             lines.append(
                 f"| {code} | {t['sessions']} | "
                 f"{fmt_tokens(t['input_tokens'])} | "
                 f"{fmt_tokens(t['output_tokens'])} | "
-                f"{fmt_tokens(t['cache_creation_tokens'])} | "
-                f"{fmt_tokens(t['cache_read_tokens'])} | "
-                f"{fmt_usd(cost)} |"
+                f"{fmt_tokens(cache_total)} | "
+                f"{share:.0%} | "
+                f"{fmt_usd(allocated)} |"
             )
         else:
             lines.append(f"| {code} | 0 | -- | -- | -- | -- | -- |")
@@ -109,15 +127,16 @@ def generate_readme(month: str) -> str:
     grand_sessions = sum(t["sessions"] for t in totals.values())
     grand_input = sum(t["input_tokens"] for t in totals.values())
     grand_output = sum(t["output_tokens"] for t in totals.values())
-    grand_cache_write = sum(t["cache_creation_tokens"] for t in totals.values())
-    grand_cache_read = sum(t["cache_read_tokens"] for t in totals.values())
+    grand_cache = sum(
+        t["cache_creation_tokens"] + t["cache_read_tokens"] for t in totals.values()
+    )
     lines.append(
         f"| **TOTAL** | **{grand_sessions}** | "
         f"**{fmt_tokens(grand_input)}** | "
         f"**{fmt_tokens(grand_output)}** | "
-        f"**{fmt_tokens(grand_cache_write)}** | "
-        f"**{fmt_tokens(grand_cache_read)}** | "
-        f"**{fmt_usd(grand_token_cost)}** |"
+        f"**{fmt_tokens(grand_cache)}** | "
+        f"**100%** | "
+        f"**{fmt_usd(monthly_cost)}** |"
     )
     lines.append("")
 
@@ -160,21 +179,10 @@ def generate_readme(month: str) -> str:
     lines.append("")
     lines.append("| Category | Amount |")
     lines.append("|----------|--------|")
-    lines.append(f"| Estimated token cost | {fmt_usd(grand_token_cost)} |")
+    lines.append(f"| {plan_name} subscription | {fmt_usd(monthly_cost)} |")
     if grand_expenses > 0:
         lines.append(f"| Project expenses | {fmt_usd(grand_expenses)} |")
-        lines.append(f"| **Grand total** | **{fmt_usd(grand_token_cost + grand_expenses)}** |")
-    lines.append("")
-
-    # --- Pricing reference ---
-    lines.append("## Pricing Rates")
-    lines.append("")
-    lines.append("| Token Type | Rate (per 1M tokens) |")
-    lines.append("|------------|---------------------|")
-    lines.append(f"| Input | ${rates['input']:.2f} |")
-    lines.append(f"| Output | ${rates['output']:.2f} |")
-    lines.append(f"| Cache Write | ${rates['cache_write']:.2f} |")
-    lines.append(f"| Cache Read | ${rates['cache_read']:.2f} |")
+    lines.append(f"| **Total** | **{fmt_usd(monthly_cost + grand_expenses)}** |")
     lines.append("")
 
     # --- Footer ---
