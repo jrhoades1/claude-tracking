@@ -1,7 +1,7 @@
 {
   "ALD-SERVICETITAN": {
-    "cwd": "C:\\Users\\Tracy\\Projects\\servicetitan-mcp-server",
-    "last_seen": "2026-02-22"
+    "cwd": "c:\\Users\\Tracy\\Projects\\servicetitan-mcp-server",
+    "last_seen": "2026-02-23"
   },
   "Claude Setup": {
     "cwd": "C:\\Users\\Tracy\\Projects\\Claude Setup",
@@ -9,6 +9,10 @@
   },
   "EASTER-ISLAND": {
     "cwd": "C:\\Users\\Tracy\\Projects\\Easter Island",
-    "last_seen": "2026-02-22"
+    "last_seen": "2026-02-23"
+  },
+  "claude-tracking": {
+    "cwd": "C:\\Users\\Tracy\\Projects\\claude-tracking",
+    "last_seen": "2026-02-23"
   }
 }

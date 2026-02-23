@@ -1,1 +1,13 @@
 date,time_utc,project_code,cwd,session_id,input_tokens,output_tokens,cache_creation_tokens,cache_read_tokens
+2026-02-22,20:57:43,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,100181,8744,7416276,80876270
+2026-02-22,21:25:32,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100259,9476,7510677,85704487
+2026-02-22,22:22:32,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100342,10438,7625970,95154017
+2026-02-22,22:55:03,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100349,10443,7629915,95600207
+2026-02-22,22:55:20,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100353,10471,7631568,95902081
+2026-02-22,22:55:47,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100357,10492,7633243,96207270
+2026-02-23,00:03:07,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,100422,10987,7718963,99365647
+2026-02-23,00:03:24,EASTER-ISLAND,C:\Users\Tracy\Projects\Easter Island,ee5ce145-c897-4685-80ea-d4e7b46998aa,100429,11040,7720319,99477238
+2026-02-23,00:04:05,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100435,11105,7721186,99630455
+2026-02-23,00:04:20,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100438,11107,7721648,99669223
+2026-02-23,00:06:07,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,100442,11129,7722316,99748071
+2026-02-23,00:07:02,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100448,11147,7723126,99827867
