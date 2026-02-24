@@ -73,3 +73,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-02-24,03:21:48,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,172,758,338014,4550168
 2026-02-24,15:32:16,ald-call-analysis,c:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,,25065,273,99173,971556
 2026-02-24,16:14:48,ALD-CALL-ANALYSIS,C:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,csr-training,25153,840,281215,7759056
+2026-02-24,16:23:32,ALD-CALL-ANALYSIS,c:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,csr-training,25156,842,282526,7882117
