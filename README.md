@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-24 17:52 UTC
+**February 2026** | Last updated: 2026-02-24 17:55 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -11,21 +11,22 @@
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
 | mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 3% | $2.82 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 50% | $49.76 |
-| Claude Setup | 11 | 1,106,831 | 127,344 | 1,222,815,885 | -- | 31% | $30.58 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 13% | $13.08 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 50% | $49.71 |
+| Claude Setup | 11 | 1,106,831 | 127,344 | 1,222,815,885 | -- | 31% | $30.55 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 13% | $13.06 |
 | ALD-CALL-ANALYSIS | 3 | 75,489 | 2,590 | 25,684,971 | claude-opus-4-6 | 1% | $0.64 |
-| JOB-APPLICATIONS | 2 | 5,894 | 759 | 2,025,023 | claude-opus-4-6 | 0% | $0.05 |
 | dark-software-factory | 2 | 1,184 | 1,602 | 11,254,946 | -- | 0% | $0.28 |
-| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.03 |
-| 2026-02-24_chenmed_senior-director-software-engineering | 1 | 3,127 | 843 | 3,046,397 | claude-opus-4-6 | 0% | $0.08 |
+| JOB-APPLICATIONS | 2 | 5,894 | 759 | 2,025,023 | claude-opus-4-6 | 0% | $0.05 |
+| 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.18 |
 | EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 3% | $2.68 |
-| **TOTAL** | **79** | **3,540,723** | **425,657** | **3,998,974,368** | claude-opus-4-6 | **100%** | **$100.00** |
+| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.03 |
+| **TOTAL** | **80** | **3,543,871** | **426,817** | **4,003,281,598** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
 | Skill | Sessions | Projects |
 |-------|----------|----------|
+| cover-letter-writer | 1 | 2026-02-24_chenmed_senior-director-software-engineering |
 | csr-training | 1 | ALD-CALL-ANALYSIS |
 | job-intake | 2 | 2026-02-24_chenmed_senior-director-software-engineering, JOB-APPLICATIONS |
 | resume-tailor | 1 | 2026-02-24_chenmed_senior-director-software-engineering |
