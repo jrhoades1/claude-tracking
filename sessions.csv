@@ -1,73 +1,74 @@
-date,time_utc,project_code,cwd,session_id,input_tokens,output_tokens,cache_creation_tokens,cache_read_tokens
-2026-02-22,20:57:43,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,100181,8744,7416276,80876270
-2026-02-22,21:25:32,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100259,9476,7510677,85704487
-2026-02-22,22:22:32,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100342,10438,7625970,95154017
-2026-02-22,22:55:03,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100349,10443,7629915,95600207
-2026-02-22,22:55:20,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100353,10471,7631568,95902081
-2026-02-22,22:55:47,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100357,10492,7633243,96207270
-2026-02-23,00:03:07,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,100422,10987,7718963,99365647
-2026-02-23,00:03:24,EASTER-ISLAND,C:\Users\Tracy\Projects\Easter Island,ee5ce145-c897-4685-80ea-d4e7b46998aa,100429,11040,7720319,99477238
-2026-02-23,00:04:05,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100435,11105,7721186,99630455
-2026-02-23,00:04:20,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100438,11107,7721648,99669223
-2026-02-23,00:06:07,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,100442,11129,7722316,99748071
-2026-02-23,00:07:02,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100448,11147,7723126,99827867
-2026-02-23,02:22:28,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,100480,11594,7873240,101610998
-2026-02-23,16:58:56,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,100500,11680,8059119,102536389
-2026-02-23,17:00:15,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100503,11683,8124586,102554997
-2026-02-23,17:22:53,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100720,11836,8129762,103488402
-2026-02-23,17:25:19,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100727,11879,8131256,103922729
-2026-02-23,17:32:01,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100733,11909,8135083,104276123
-2026-02-23,17:32:24,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100737,11932,8136124,104457019
-2026-02-23,20:30:03,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100752,11986,8387407,105099717
-2026-02-23,20:31:46,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100756,12015,8389477,105307639
-2026-02-23,20:33:07,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100767,12133,8405503,106274875
-2026-02-23,20:37:15,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100824,12745,8513644,113534984
-2026-02-23,20:37:37,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100828,12774,8521265,113845637
-2026-02-23,20:48:27,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100839,12811,8601106,114098464
-2026-02-23,20:53:01,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100849,12849,8604540,114304270
-2026-02-23,20:53:26,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100853,12878,8605830,114412288
-2026-02-23,20:54:55,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100872,13002,8611809,115027002
-2026-02-23,20:55:16,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100876,13023,8612949,115143004
-2026-02-23,20:56:47,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100879,13025,8613772,115201732
-2026-02-23,20:57:23,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100883,13052,8614859,115321751
-2026-02-23,20:57:59,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100889,13070,8616699,115443027
-2026-02-23,20:58:47,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,100896,13165,8619280,115757587
-2026-02-23,21:01:39,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,100899,13167,8620492,115821726
-2026-02-23,21:39:18,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,86f0011e-dcb8-4584-ba65-01b892632abc,14,31,21708,131749
-2026-02-23,21:46:16,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,86f0011e-dcb8-4584-ba65-01b892632abc,50,285,95604,1319085
-2026-02-23,21:57:24,mnt,C:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,522,200,154130,545432
-2026-02-23,22:20:53,mnt,C:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,577,704,280784,4430132
-2026-02-23,22:22:49,mnt,C:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,582,744,281940,4767808
-2026-02-23,22:25:24,dark-software-factory,C:\Users\Tracy\Projects\dark-software-factory,0cc266d7-96aa-4add-8ae7-15aa877d53d5,587,785,284699,5109839
-2026-02-23,22:25:41,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,590,787,284732,5225970
-2026-02-23,22:26:12,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,593,789,285010,5342134
-2026-02-23,22:27:01,dark-software-factory,C:\Users\Tracy\Projects\dark-software-factory,0cc266d7-96aa-4add-8ae7-15aa877d53d5,597,817,285294,5575114
-2026-02-23,22:32:34,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,603,835,285386,5808566
-2026-02-23,22:37:19,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,606,838,285973,5925338
-2026-02-23,22:44:37,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,612,854,286255,6160056
-2026-02-23,22:45:18,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,615,855,286707,6277556
-2026-02-23,22:47:20,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,618,856,286778,6395508
-2026-02-23,23:25:35,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,14,56,36484,126536
-2026-02-23,23:26:09,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,17,58,37258,155942
-2026-02-23,23:52:13,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,22,100,41318,246634
-2026-02-23,23:53:28,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,38,202,48409,586177
-2026-02-23,23:57:43,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,49,251,58471,772014
-2026-02-24,00:16:39,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,80,387,89974,1672761
-2026-02-24,00:18:24,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,86,405,91800,1782585
-2026-02-24,00:19:18,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,89,409,93368,1838410
-2026-02-24,00:20:33,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,92,411,94487,1895803
-2026-02-24,00:20:52,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,95,413,95496,1954315
-2026-02-24,00:21:47,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,101,456,105301,2197928
-2026-02-24,00:27:35,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,107,474,106907,2329230
-2026-02-24,00:29:12,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,113,490,110809,2462138
-2026-02-24,00:30:31,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,116,492,112516,2530543
-2026-02-24,00:31:33,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,119,494,113747,2600655
-2026-02-24,00:31:58,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,122,496,114703,2671998
-2026-02-24,00:32:46,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,127,549,116809,2890242
-2026-02-24,00:36:57,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,134,603,118572,3265157
-2026-02-24,00:38:54,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,140,621,119916,3417339
-2026-02-24,00:48:45,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,152,722,129598,4055423
-2026-02-24,00:49:42,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,155,724,130549,4139829
-2026-02-24,01:56:06,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,161,726,266565,4177045
-2026-02-24,03:20:51,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,164,728,336163,4195653
-2026-02-24,03:21:48,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,172,758,338014,4550168
+date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens,cache_creation_tokens,cache_read_tokens
+2026-02-22,20:57:43,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100181,8744,7416276,80876270
+2026-02-22,21:25:32,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100259,9476,7510677,85704487
+2026-02-22,22:22:32,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100342,10438,7625970,95154017
+2026-02-22,22:55:03,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100349,10443,7629915,95600207
+2026-02-22,22:55:20,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100353,10471,7631568,95902081
+2026-02-22,22:55:47,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100357,10492,7633243,96207270
+2026-02-23,00:03:07,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100422,10987,7718963,99365647
+2026-02-23,00:03:24,EASTER-ISLAND,C:\Users\Tracy\Projects\Easter Island,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100429,11040,7720319,99477238
+2026-02-23,00:04:05,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100435,11105,7721186,99630455
+2026-02-23,00:04:20,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100438,11107,7721648,99669223
+2026-02-23,00:06:07,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100442,11129,7722316,99748071
+2026-02-23,00:07:02,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100448,11147,7723126,99827867
+2026-02-23,02:22:28,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100480,11594,7873240,101610998
+2026-02-23,16:58:56,claude-tracking,C:\Users\Tracy\Projects\claude-tracking,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100500,11680,8059119,102536389
+2026-02-23,17:00:15,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100503,11683,8124586,102554997
+2026-02-23,17:22:53,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100720,11836,8129762,103488402
+2026-02-23,17:25:19,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100727,11879,8131256,103922729
+2026-02-23,17:32:01,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100733,11909,8135083,104276123
+2026-02-23,17:32:24,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100737,11932,8136124,104457019
+2026-02-23,20:30:03,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100752,11986,8387407,105099717
+2026-02-23,20:31:46,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100756,12015,8389477,105307639
+2026-02-23,20:33:07,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100767,12133,8405503,106274875
+2026-02-23,20:37:15,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100824,12745,8513644,113534984
+2026-02-23,20:37:37,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100828,12774,8521265,113845637
+2026-02-23,20:48:27,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100839,12811,8601106,114098464
+2026-02-23,20:53:01,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100849,12849,8604540,114304270
+2026-02-23,20:53:26,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100853,12878,8605830,114412288
+2026-02-23,20:54:55,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100872,13002,8611809,115027002
+2026-02-23,20:55:16,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100876,13023,8612949,115143004
+2026-02-23,20:56:47,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100879,13025,8613772,115201732
+2026-02-23,20:57:23,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100883,13052,8614859,115321751
+2026-02-23,20:57:59,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100889,13070,8616699,115443027
+2026-02-23,20:58:47,Claude Setup,C:\Users\Tracy\Projects\Claude Setup,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100896,13165,8619280,115757587
+2026-02-23,21:01:39,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,ee5ce145-c897-4685-80ea-d4e7b46998aa,,,100899,13167,8620492,115821726
+2026-02-23,21:39:18,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,86f0011e-dcb8-4584-ba65-01b892632abc,,,14,31,21708,131749
+2026-02-23,21:46:16,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,86f0011e-dcb8-4584-ba65-01b892632abc,,,50,285,95604,1319085
+2026-02-23,21:57:24,mnt,C:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,522,200,154130,545432
+2026-02-23,22:20:53,mnt,C:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,577,704,280784,4430132
+2026-02-23,22:22:49,mnt,C:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,582,744,281940,4767808
+2026-02-23,22:25:24,dark-software-factory,C:\Users\Tracy\Projects\dark-software-factory,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,587,785,284699,5109839
+2026-02-23,22:25:41,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,590,787,284732,5225970
+2026-02-23,22:26:12,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,593,789,285010,5342134
+2026-02-23,22:27:01,dark-software-factory,C:\Users\Tracy\Projects\dark-software-factory,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,597,817,285294,5575114
+2026-02-23,22:32:34,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,603,835,285386,5808566
+2026-02-23,22:37:19,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,606,838,285973,5925338
+2026-02-23,22:44:37,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,612,854,286255,6160056
+2026-02-23,22:45:18,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,615,855,286707,6277556
+2026-02-23,22:47:20,mnt,c:\Users\Tracy\Downloads\files\mnt,0cc266d7-96aa-4add-8ae7-15aa877d53d5,,,618,856,286778,6395508
+2026-02-23,23:25:35,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,14,56,36484,126536
+2026-02-23,23:26:09,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,17,58,37258,155942
+2026-02-23,23:52:13,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,22,100,41318,246634
+2026-02-23,23:53:28,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,38,202,48409,586177
+2026-02-23,23:57:43,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,49,251,58471,772014
+2026-02-24,00:16:39,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,80,387,89974,1672761
+2026-02-24,00:18:24,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,86,405,91800,1782585
+2026-02-24,00:19:18,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,89,409,93368,1838410
+2026-02-24,00:20:33,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,92,411,94487,1895803
+2026-02-24,00:20:52,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,95,413,95496,1954315
+2026-02-24,00:21:47,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,101,456,105301,2197928
+2026-02-24,00:27:35,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,107,474,106907,2329230
+2026-02-24,00:29:12,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,113,490,110809,2462138
+2026-02-24,00:30:31,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,116,492,112516,2530543
+2026-02-24,00:31:33,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,119,494,113747,2600655
+2026-02-24,00:31:58,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,122,496,114703,2671998
+2026-02-24,00:32:46,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,127,549,116809,2890242
+2026-02-24,00:36:57,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,134,603,118572,3265157
+2026-02-24,00:38:54,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,140,621,119916,3417339
+2026-02-24,00:48:45,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,152,722,129598,4055423
+2026-02-24,00:49:42,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,155,724,130549,4139829
+2026-02-24,01:56:06,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,161,726,266565,4177045
+2026-02-24,03:20:51,mnt,c:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,164,728,336163,4195653
+2026-02-24,03:21:48,mnt,C:\Users\Tracy\Downloads\files\mnt,323d3783-81f5-43b2-a2f8-5e67de9fb62e,,,172,758,338014,4550168
+2026-02-24,15:32:16,ald-call-analysis,c:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,,25065,273,99173,971556
