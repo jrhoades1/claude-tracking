@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-25 15:06 UTC
+**February 2026** | Last updated: 2026-02-25 15:14 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,17 +10,17 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 3% | $2.75 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 48% | $48.45 |
-| Claude Setup | 11 | 1,106,831 | 127,344 | 1,222,815,885 | -- | 30% | $29.78 |
-| ALD-CALL-ANALYSIS | 7 | 176,697 | 9,844 | 105,331,312 | claude-opus-4-6 | 3% | $2.57 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 13% | $12.73 |
-| dark-software-factory | 3 | 26,538 | 3,739 | 35,118,829 | claude-opus-4-6 | 1% | $0.86 |
-| JOB-APPLICATIONS | 2 | 5,894 | 759 | 2,025,023 | claude-opus-4-6 | 0% | $0.05 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 3% | $2.73 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 48% | $48.16 |
+| Claude Setup | 11 | 1,106,831 | 127,344 | 1,222,815,885 | -- | 30% | $29.60 |
+| ALD-CALL-ANALYSIS | 8 | 202,073 | 12,101 | 130,370,155 | claude-opus-4-6 | 3% | $3.16 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 13% | $12.66 |
+| dark-software-factory | 3 | 26,538 | 3,739 | 35,118,829 | claude-opus-4-6 | 1% | $0.85 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.18 |
-| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 3% | $2.61 |
+| JOB-APPLICATIONS | 2 | 5,894 | 759 | 2,025,023 | claude-opus-4-6 | 0% | $0.05 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.03 |
-| **TOTAL** | **85** | **3,670,433** | **436,208** | **4,106,791,822** | claude-opus-4-6 | **100%** | **$100.00** |
+| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 3% | $2.59 |
+| **TOTAL** | **86** | **3,695,809** | **438,465** | **4,131,830,665** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
