@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-25 21:57 UTC
+**February 2026** | Last updated: 2026-02-25 22:03 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -12,27 +12,33 @@
 |---------|----------|-------|--------|-------|--------|-------|-----------|
 | mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 3% | $2.59 |
 | JOB-APPLICATIONS | 24 | 20,708 | 23,391 | 153,341,759 | claude-opus-4-6 | 4% | $3.51 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 46% | $45.62 |
-| Claude Setup | 11 | 1,106,831 | 127,344 | 1,222,815,885 | -- | 28% | $28.03 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 46% | $45.59 |
 | ALD-CALL-ANALYSIS | 11 | 278,238 | 18,948 | 207,618,452 | claude-opus-4-6 | 5% | $4.76 |
-| dark-software-factory | 6 | 26,639 | 4,381 | 36,668,335 | claude-opus-4-6 | 1% | $0.84 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 12% | $11.99 |
+| Claude Setup | 11 | 1,106,831 | 127,344 | 1,222,815,885 | -- | 28% | $28.02 |
+| dark-software-factory | 7 | 26,731 | 5,002 | 39,213,165 | claude-opus-4-6 | 1% | $0.90 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 12% | $11.98 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.17 |
-| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.46 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.03 |
-| **TOTAL** | **114** | **3,786,889** | **468,586** | **4,361,945,204** | claude-opus-4-6 | **100%** | **$100.00** |
+| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.46 |
+| **TOTAL** | **115** | **3,786,981** | **469,207** | **4,364,490,034** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
 | Skill | Sessions | Projects |
 |-------|----------|----------|
-| cover-letter-writer | 2 | 2026-02-24_chenmed_senior-director-software-engineering, JOB-APPLICATIONS |
+| citadel-workflow | 1 | dark-software-factory |
+| cover-letter-writer | 3 | 2026-02-24_chenmed_senior-director-software-engineering, JOB-APPLICATIONS, dark-software-factory |
 | csr-training | 2 | ALD-CALL-ANALYSIS, dark-software-factory |
+| hipaa-scaffold | 1 | dark-software-factory |
 | interview-debrief | 1 | JOB-APPLICATIONS |
-| job-intake | 2 | 2026-02-24_chenmed_senior-director-software-engineering, JOB-APPLICATIONS |
-| job-tracker | 1 | JOB-APPLICATIONS |
+| job-intake | 3 | 2026-02-24_chenmed_senior-director-software-engineering, JOB-APPLICATIONS, dark-software-factory |
+| job-tracker | 2 | JOB-APPLICATIONS, dark-software-factory |
 | offer-evaluator | 1 | JOB-APPLICATIONS |
-| resume-tailor | 1 | 2026-02-24_chenmed_senior-director-software-engineering |
+| onboarding-setup | 1 | dark-software-factory |
+| project-bootstrap | 1 | dark-software-factory |
+| resume-tailor | 2 | 2026-02-24_chenmed_senior-director-software-engineering, dark-software-factory |
+| security-hardening | 1 | dark-software-factory |
+| servicetitan-analysis | 1 | dark-software-factory |
 
 ## Monthly Total
 
