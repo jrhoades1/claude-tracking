@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-25 19:41 UTC
+**February 2026** | Last updated: 2026-02-25 19:48 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,17 +10,17 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 3% | $2.66 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 47% | $46.79 |
-| JOB-APPLICATIONS | 15 | 18,767 | 10,567 | 45,720,047 | claude-opus-4-6 | 1% | $1.07 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 3% | $2.65 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 47% | $46.71 |
+| JOB-APPLICATIONS | 16 | 18,924 | 11,589 | 52,577,404 | claude-opus-4-6 | 1% | $1.23 |
+| Claude Setup | 11 | 1,106,831 | 127,344 | 1,222,815,885 | -- | 29% | $28.71 |
 | ALD-CALL-ANALYSIS | 11 | 278,238 | 18,948 | 207,618,452 | claude-opus-4-6 | 5% | $4.88 |
-| Claude Setup | 11 | 1,106,831 | 127,344 | 1,222,815,885 | -- | 29% | $28.75 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 12% | $12.30 |
-| dark-software-factory | 3 | 26,538 | 3,739 | 35,118,829 | claude-opus-4-6 | 1% | $0.83 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 12% | $12.28 |
+| dark-software-factory | 3 | 26,538 | 3,739 | 35,118,829 | claude-opus-4-6 | 1% | $0.82 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.17 |
-| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.03 |
 | EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 3% | $2.52 |
-| **TOTAL** | **102** | **3,784,847** | **455,120** | **4,252,773,986** | claude-opus-4-6 | **100%** | **$100.00** |
+| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.03 |
+| **TOTAL** | **103** | **3,785,004** | **456,142** | **4,259,631,343** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
