@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-26 22:30 UTC
+**February 2026** | Last updated: 2026-02-26 22:33 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,18 +10,18 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 7% | $6.86 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.42 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 43% | $42.64 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 27% | $26.50 |
-| dark-software-factory | 16 | 66,333 | 113,970 | 112,291,805 | claude-opus-4-6 | 2% | $2.41 |
-| ALD-CALL-ANALYSIS | 12 | 303,654 | 26,151 | 235,373,934 | claude-opus-4-6 | 5% | $5.05 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 11% | $11.21 |
+| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 7% | $6.83 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.41 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 42% | $42.46 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 26% | $26.38 |
+| dark-software-factory | 17 | 75,789 | 164,359 | 132,685,543 | claude-opus-4-6 | 3% | $2.83 |
+| ALD-CALL-ANALYSIS | 12 | 303,654 | 26,151 | 235,373,934 | claude-opus-4-6 | 5% | $5.02 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 11% | $11.16 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.16 |
-| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.30 |
 | job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.44 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
-| **TOTAL** | **151** | **3,908,553** | **1,369,881** | **4,665,888,119** | claude-opus-4-6 | **100%** | **$100.00** |
+| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.29 |
+| **TOTAL** | **152** | **3,918,009** | **1,420,270** | **4,686,281,857** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
