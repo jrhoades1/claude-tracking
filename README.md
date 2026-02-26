@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-26 23:04 UTC
+**February 2026** | Last updated: 2026-02-26 23:05 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,18 +10,18 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 6% | $6.36 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.24 |
-| dark-software-factory | 24 | 177,200 | 599,898 | 313,745,728 | claude-opus-4-6 | 6% | $6.24 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 40% | $39.52 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 25% | $24.56 |
-| ALD-CALL-ANALYSIS | 17 | 440,736 | 133,047 | 401,880,243 | claude-opus-4-6 | 8% | $7.99 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 10% | $10.39 |
+| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 6% | $6.32 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.23 |
+| dark-software-factory | 24 | 177,200 | 599,898 | 313,745,728 | claude-opus-4-6 | 6% | $6.20 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 39% | $39.26 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 24% | $24.40 |
+| ALD-CALL-ANALYSIS | 18 | 468,162 | 156,983 | 435,415,267 | claude-opus-4-6 | 9% | $8.59 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 10% | $10.32 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.15 |
-| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.41 |
-| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.13 |
+| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.40 |
+| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.12 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
-| **TOTAL** | **164** | **4,156,502** | **1,962,705** | **5,033,848,351** | claude-opus-4-6 | **100%** | **$100.00** |
+| **TOTAL** | **165** | **4,183,928** | **1,986,641** | **5,067,383,375** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
