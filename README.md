@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-26 22:02 UTC
+**February 2026** | Last updated: 2026-02-26 22:26 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,18 +10,18 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 7% | $6.91 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.44 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 43% | $42.98 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 27% | $26.71 |
-| dark-software-factory | 14 | 47,457 | 18,977 | 75,795,246 | claude-opus-4-6 | 2% | $1.64 |
-| ALD-CALL-ANALYSIS | 12 | 303,654 | 26,151 | 235,373,934 | claude-opus-4-6 | 5% | $5.09 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 11% | $11.30 |
+| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 7% | $6.89 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.43 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 43% | $42.83 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 27% | $26.62 |
+| dark-software-factory | 15 | 56,880 | 64,746 | 92,057,286 | claude-opus-4-6 | 2% | $1.98 |
+| ALD-CALL-ANALYSIS | 12 | 303,654 | 26,151 | 235,373,934 | claude-opus-4-6 | 5% | $5.07 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 11% | $11.26 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.16 |
-| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.32 |
+| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.31 |
 | job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.44 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
-| **TOTAL** | **149** | **3,889,677** | **1,274,888** | **4,629,391,560** | claude-opus-4-6 | **100%** | **$100.00** |
+| **TOTAL** | **150** | **3,899,100** | **1,320,657** | **4,645,653,600** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
@@ -42,10 +42,13 @@
 | offer-evaluator | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | onboarding-setup | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | project-bootstrap | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
+| research | 1 | dark-software-factory |
 | resume-tailor | 4 | 2026-02-24_chenmed_senior-director-software-engineering, JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | search-optimizer | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | security-hardening | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | servicetitan-analysis | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
+| skill-creator | 1 | dark-software-factory |
+| task-manager | 1 | dark-software-factory |
 
 ## Monthly Total
 
