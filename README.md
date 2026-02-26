@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-26 23:02 UTC
+**February 2026** | Last updated: 2026-02-26 23:03 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,18 +10,18 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 6% | $6.44 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.27 |
-| dark-software-factory | 23 | 158,942 | 525,615 | 283,025,604 | claude-opus-4-6 | 6% | $5.70 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 40% | $40.03 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 25% | $24.88 |
-| ALD-CALL-ANALYSIS | 16 | 413,313 | 109,844 | 368,423,111 | claude-opus-4-6 | 7% | $7.42 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 11% | $10.52 |
+| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 6% | $6.40 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.26 |
+| dark-software-factory | 24 | 177,200 | 599,898 | 313,745,728 | claude-opus-4-6 | 6% | $6.28 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 40% | $39.79 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 25% | $24.73 |
+| ALD-CALL-ANALYSIS | 16 | 413,313 | 109,844 | 368,423,111 | claude-opus-4-6 | 7% | $7.37 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 10% | $10.46 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.15 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
 | job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.41 |
-| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.16 |
-| **TOTAL** | **162** | **4,110,821** | **1,865,219** | **4,969,671,095** | claude-opus-4-6 | **100%** | **$100.00** |
+| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.14 |
+| **TOTAL** | **163** | **4,129,079** | **1,939,502** | **5,000,391,219** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
@@ -47,6 +47,7 @@
 | search-optimizer | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | security-hardening | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | servicetitan-analysis | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
+| session-start | 1 | dark-software-factory |
 | skill-creator | 1 | dark-software-factory |
 | task-manager | 1 | dark-software-factory |
 
