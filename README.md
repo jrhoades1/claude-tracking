@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-26 23:06 UTC
+**February 2026** | Last updated: 2026-02-26 23:07 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,18 +10,18 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 6% | $6.27 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.21 |
-| dark-software-factory | 24 | 177,200 | 599,898 | 313,745,728 | claude-opus-4-6 | 6% | $6.16 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 39% | $39.00 |
-| ALD-CALL-ANALYSIS | 19 | 495,594 | 182,285 | 469,112,221 | claude-opus-4-6 | 9% | $9.20 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 24% | $24.24 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 10% | $10.25 |
+| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 6% | $6.23 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.20 |
+| dark-software-factory | 24 | 177,200 | 599,898 | 313,745,728 | claude-opus-4-6 | 6% | $6.12 |
+| ALD-CALL-ANALYSIS | 20 | 523,029 | 207,750 | 502,893,819 | claude-opus-4-6 | 10% | $9.80 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 39% | $38.74 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 24% | $24.08 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 10% | $10.18 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.14 |
-| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
 | job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.40 |
-| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.10 |
-| **TOTAL** | **166** | **4,211,360** | **2,011,943** | **5,101,080,329** | claude-opus-4-6 | **100%** | **$100.00** |
+| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
+| EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.09 |
+| **TOTAL** | **167** | **4,238,795** | **2,037,408** | **5,134,861,927** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
