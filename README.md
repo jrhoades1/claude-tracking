@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-26 16:21 UTC
+**February 2026** | Last updated: 2026-02-26 16:24 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -11,17 +11,17 @@
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
 | mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 3% | $2.54 |
-| JOB-APPLICATIONS | 31 | 40,948 | 45,285 | 173,860,614 | claude-opus-4-6 | 4% | $3.91 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 45% | $44.79 |
-| Claude Setup | 15 | 1,106,911 | 132,962 | 1,223,639,819 | claude-opus-4-6 | 28% | $27.55 |
-| dark-software-factory | 12 | 47,418 | 10,140 | 75,325,187 | claude-opus-4-6 | 2% | $1.70 |
-| ALD-CALL-ANALYSIS | 11 | 278,238 | 18,948 | 207,618,452 | claude-opus-4-6 | 5% | $4.68 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 12% | $11.77 |
+| JOB-APPLICATIONS | 32 | 42,309 | 125,193 | 185,945,378 | claude-opus-4-6 | 4% | $4.17 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 45% | $44.67 |
+| Claude Setup | 15 | 1,106,911 | 132,962 | 1,223,639,819 | claude-opus-4-6 | 27% | $27.47 |
+| dark-software-factory | 12 | 47,418 | 10,140 | 75,325,187 | claude-opus-4-6 | 2% | $1.69 |
+| ALD-CALL-ANALYSIS | 11 | 278,238 | 18,948 | 207,618,452 | claude-opus-4-6 | 5% | $4.66 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 12% | $11.74 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.17 |
-| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.46 |
-| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
 | EASTER-ISLAND | 1 | 100,429 | 11,040 | 107,197,557 | -- | 2% | $2.41 |
-| **TOTAL** | **132** | **3,848,423** | **504,250** | **4,442,459,550** | claude-opus-4-6 | **100%** | **$100.00** |
+| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
+| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.46 |
+| **TOTAL** | **133** | **3,849,784** | **584,158** | **4,454,544,314** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
@@ -32,6 +32,8 @@
 | citadel-workflow | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | cover-letter-writer | 4 | 2026-02-24_chenmed_senior-director-software-engineering, JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | csr-training | 4 | ALD-CALL-ANALYSIS, JOB-APPLICATIONS, dark-software-factory, job-application-system |
+| email-pipeline-runner | 1 | JOB-APPLICATIONS |
+| email-triage | 1 | JOB-APPLICATIONS |
 | hipaa-scaffold | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | interview-debrief | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | interview-prep-builder | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |

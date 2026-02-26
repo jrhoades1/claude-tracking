@@ -131,3 +131,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-02-26,16:15:16,Claude Setup,c:\Users\Tracy\Projects\Claude Setup,af527561-f2c9-4881-8d1e-421d511f62b8,claude-opus-4-6,,17,548,36059,139000
 2026-02-26,16:18:02,Claude Setup,c:\Users\Tracy\Projects\Claude Setup,af527561-f2c9-4881-8d1e-421d511f62b8,claude-opus-4-6,,23,1676,36109,200198
 2026-02-26,16:21:16,Claude Setup,c:\Users\Tracy\Projects\Claude Setup,af527561-f2c9-4881-8d1e-421d511f62b8,claude-opus-4-6,,26,2853,37286,230822
+2026-02-26,16:24:16,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,437b3029-e780-4ecb-9b46-6273d2f962df,claude-opus-4-6,"email-pipeline-runner,email-triage,job-intake,job-tracker",1361,79908,540537,11544227
