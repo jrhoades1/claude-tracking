@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-26 23:09 UTC
+**February 2026** | Last updated: 2026-02-26 23:10 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,18 +10,18 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 42 | 56,453 | 738,701 | 319,635,779 | claude-opus-4-6 | 6% | $6.20 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.19 |
-| dark-software-factory | 24 | 177,200 | 599,898 | 313,745,728 | claude-opus-4-6 | 6% | $6.08 |
-| ALD-CALL-ANALYSIS | 20 | 523,029 | 207,750 | 502,893,819 | claude-opus-4-6 | 10% | $9.74 |
-| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 39% | $38.51 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 24% | $23.93 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 10% | $10.12 |
+| JOB-APPLICATIONS | 43 | 74,742 | 817,138 | 352,838,898 | claude-opus-4-6 | 7% | $6.80 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $2.17 |
+| dark-software-factory | 24 | 177,200 | 599,898 | 313,745,728 | claude-opus-4-6 | 6% | $6.04 |
+| ALD-CALL-ANALYSIS | 20 | 523,029 | 207,750 | 502,893,819 | claude-opus-4-6 | 10% | $9.67 |
+| ALD-SERVICETITAN | 19 | 1,712,296 | 208,585 | 1,989,933,617 | -- | 38% | $38.26 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 24% | $23.78 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 10% | $10.06 |
+| EASTER-ISLAND | 2 | 118,694 | 85,848 | 138,194,691 | claude-opus-4-6 | 3% | $2.66 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.14 |
-| EASTER-ISLAND | 2 | 118,694 | 85,848 | 138,194,691 | claude-opus-4-6 | 3% | $2.68 |
+| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.39 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
-| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.40 |
-| **TOTAL** | **168** | **4,257,060** | **2,112,216** | **5,165,859,061** | claude-opus-4-6 | **100%** | **$100.00** |
+| **TOTAL** | **169** | **4,275,349** | **2,190,653** | **5,199,062,180** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
@@ -42,14 +42,14 @@
 | offer-evaluator | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | onboarding-setup | 4 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | project-bootstrap | 4 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| research | 2 | EASTER-ISLAND, dark-software-factory |
+| research | 3 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory |
 | resume-tailor | 5 | 2026-02-24_chenmed_senior-director-software-engineering, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | search-optimizer | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | security-hardening | 4 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | servicetitan-analysis | 4 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| session-start | 2 | EASTER-ISLAND, dark-software-factory |
-| skill-creator | 2 | EASTER-ISLAND, dark-software-factory |
-| task-manager | 2 | EASTER-ISLAND, dark-software-factory |
+| session-start | 3 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory |
+| skill-creator | 3 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory |
+| task-manager | 3 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory |
 
 ## Monthly Total
 
