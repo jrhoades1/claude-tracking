@@ -186,3 +186,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-02-27,19:09:07,ALD-CALL-ANALYSIS,C:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,"csr-training,servicetitan-analysis",29113,63985,3363696,46400449
 2026-02-27,19:21:07,job-app-assistant,C:\Users\Tracy\Projects\job-app-assistant,17a5a3e9-81fa-4ce1-a04f-87446ee6d419,claude-opus-4-6,"cost-tracking,hipaa-scaffold,project-bootstrap",12235,102153,855486,37469799
 2026-02-27,19:31:55,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,17a5a3e9-81fa-4ce1-a04f-87446ee6d419,claude-opus-4-6,"cost-tracking,hipaa-scaffold,project-bootstrap",14601,111962,1100672,42845734
+2026-02-27,19:42:16,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,8a4c0294-c7b9-42fd-9e7e-77d38aaeec6d,claude-opus-4-6,,99,9973,96666,2675657
