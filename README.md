@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-28 22:06 UTC
+**February 2026** | Last updated: 2026-02-28 22:07 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,20 +10,20 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| dark-software-factory | 63 | 429,737 | 3,082,283 | 1,647,183,176 | claude-opus-4-6 | 21% | $20.86 |
-| JOB-APPLICATIONS | 55 | 154,244 | 1,580,068 | 753,648,710 | claude-opus-4-6 | 10% | $9.55 |
-| ALD-CALL-ANALYSIS | 40 | 950,968 | 1,169,715 | 1,215,948,856 | claude-opus-4-6 | 15% | $15.39 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 1% | $1.43 |
-| ALD-SERVICETITAN | 23 | 1,730,805 | 304,596 | 2,030,104,473 | claude-opus-4-6 | 26% | $25.68 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 16% | $15.64 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 7% | $6.61 |
-| job-app-assistant | 5 | 43,250 | 316,097 | 135,944,678 | claude-opus-4-6 | 2% | $1.72 |
+| dark-software-factory | 64 | 436,532 | 3,177,155 | 1,702,195,466 | claude-opus-4-6 | 21% | $21.41 |
+| JOB-APPLICATIONS | 55 | 154,244 | 1,580,068 | 753,648,710 | claude-opus-4-6 | 9% | $9.48 |
+| ALD-CALL-ANALYSIS | 40 | 950,968 | 1,169,715 | 1,215,948,856 | claude-opus-4-6 | 15% | $15.29 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 1% | $1.42 |
+| ALD-SERVICETITAN | 23 | 1,730,805 | 304,596 | 2,030,104,473 | claude-opus-4-6 | 26% | $25.50 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 16% | $15.53 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 7% | $6.57 |
 | Tracy | 5 | 555 | 54,177 | 14,993,803 | claude-opus-4-6 | 0% | $0.19 |
-| EASTER-ISLAND | 4 | 143,421 | 223,912 | 202,460,661 | claude-opus-4-6 | 3% | $2.56 |
+| job-app-assistant | 5 | 43,250 | 316,097 | 135,944,678 | claude-opus-4-6 | 2% | $1.71 |
+| EASTER-ISLAND | 4 | 143,421 | 223,912 | 202,460,661 | claude-opus-4-6 | 3% | $2.55 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.09 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.01 |
 | job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.26 |
-| **TOTAL** | **256** | **5,122,368** | **7,002,282** | **7,901,739,784** | claude-opus-4-6 | **100%** | **$100.00** |
+| **TOTAL** | **257** | **5,129,163** | **7,097,154** | **7,956,752,074** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
