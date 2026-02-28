@@ -206,3 +206,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-02-28,17:21:45,ALD-CALL-ANALYSIS,c:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,"csr-training,servicetitan-analysis",29141,71885,3492372,47525430
 2026-02-28,17:23:41,ALD-CALL-ANALYSIS,C:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,"csr-training,servicetitan-analysis",29158,75362,3507440,48490686
 2026-02-28,17:26:34,ALD-CALL-ANALYSIS,c:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,"csr-training,servicetitan-analysis",29164,76466,3516712,48650826
+2026-02-28,17:29:28,ALD-CALL-ANALYSIS,c:\Users\Tracy\Projects\ald-call-analysis,b36fdae1-ace7-4170-b349-1d0c9ed1ab00,claude-opus-4-6,"csr-training,servicetitan-analysis",29173,79351,3532692,49093112
