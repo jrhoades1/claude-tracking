@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-28 21:02 UTC
+**February 2026** | Last updated: 2026-02-28 21:10 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,20 +10,20 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 48 | 107,821 | 1,024,794 | 434,499,493 | claude-opus-4-6 | 7% | $6.50 |
-| dark-software-factory | 44 | 303,413 | 1,539,394 | 756,185,167 | claude-opus-4-6 | 11% | $11.31 |
-| ALD-CALL-ANALYSIS | 40 | 950,968 | 1,169,715 | 1,215,948,856 | claude-opus-4-6 | 18% | $18.18 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $1.69 |
-| ALD-SERVICETITAN | 23 | 1,730,805 | 304,596 | 2,030,104,473 | claude-opus-4-6 | 30% | $30.32 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 18% | $18.47 |
-| job-app-assistant | 5 | 43,250 | 316,097 | 135,944,678 | claude-opus-4-6 | 2% | $2.03 |
+| JOB-APPLICATIONS | 49 | 114,354 | 1,096,857 | 475,436,275 | claude-opus-4-6 | 7% | $7.07 |
+| dark-software-factory | 44 | 303,413 | 1,539,394 | 756,185,167 | claude-opus-4-6 | 11% | $11.24 |
+| ALD-CALL-ANALYSIS | 40 | 950,968 | 1,169,715 | 1,215,948,856 | claude-opus-4-6 | 18% | $18.07 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $1.68 |
+| ALD-SERVICETITAN | 23 | 1,730,805 | 304,596 | 2,030,104,473 | claude-opus-4-6 | 30% | $30.14 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 18% | $18.36 |
+| job-app-assistant | 5 | 43,250 | 316,097 | 135,944,678 | claude-opus-4-6 | 2% | $2.02 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 8% | $7.76 |
 | Tracy | 5 | 555 | 54,177 | 14,993,803 | claude-opus-4-6 | 0% | $0.22 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 8% | $7.81 |
-| EASTER-ISLAND | 4 | 143,421 | 223,912 | 202,460,661 | claude-opus-4-6 | 3% | $3.03 |
+| EASTER-ISLAND | 4 | 143,421 | 223,912 | 202,460,661 | claude-opus-4-6 | 3% | $3.01 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.11 |
-| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.31 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
-| **TOTAL** | **230** | **4,949,621** | **4,904,119** | **6,691,592,558** | claude-opus-4-6 | **100%** | **$100.00** |
+| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.30 |
+| **TOTAL** | **231** | **4,956,154** | **4,976,182** | **6,732,529,340** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
@@ -33,14 +33,14 @@
 | application-outcome-logger | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | citadel-workflow | 6 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant, job-application-system |
 | claude-code-guide | 1 | ALD-CALL-ANALYSIS |
-| compliance-gate | 3 | EASTER-ISLAND, dark-software-factory, job-app-assistant |
+| compliance-gate | 4 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant |
 | cost-tracking | 2 | JOB-APPLICATIONS, job-app-assistant |
 | cover-letter-writer | 6 | 2026-02-24_chenmed_senior-director-software-engineering, ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | csr-training | 6 | ALD-CALL-ANALYSIS, ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | email-pipeline-runner | 1 | JOB-APPLICATIONS |
 | email-triage | 1 | JOB-APPLICATIONS |
 | hipaa-scaffold | 6 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant, job-application-system |
-| intelligence-scout | 3 | EASTER-ISLAND, dark-software-factory, job-app-assistant |
+| intelligence-scout | 4 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant |
 | interview-debrief | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | interview-prep-builder | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
 | job-intake | 6 | 2026-02-24_chenmed_senior-director-software-engineering, ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
