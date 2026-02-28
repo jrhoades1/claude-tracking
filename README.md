@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-28 17:21 UTC
+**February 2026** | Last updated: 2026-02-28 17:23 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,20 +10,20 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 48 | 107,821 | 1,024,794 | 434,499,493 | claude-opus-4-6 | 7% | $7.28 |
-| ALD-CALL-ANALYSIS | 36 | 834,294 | 858,166 | 1,006,323,896 | claude-opus-4-6 | 17% | $16.84 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $1.89 |
-| dark-software-factory | 27 | 195,857 | 700,169 | 353,649,460 | claude-opus-4-6 | 6% | $5.92 |
-| ALD-SERVICETITAN | 23 | 1,730,805 | 304,596 | 2,030,104,473 | claude-opus-4-6 | 34% | $33.94 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 21% | $20.68 |
+| JOB-APPLICATIONS | 48 | 107,821 | 1,024,794 | 434,499,493 | claude-opus-4-6 | 7% | $7.21 |
+| ALD-CALL-ANALYSIS | 37 | 863,452 | 933,528 | 1,058,322,022 | claude-opus-4-6 | 18% | $17.55 |
+| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 2% | $1.87 |
+| dark-software-factory | 27 | 195,857 | 700,169 | 353,649,460 | claude-opus-4-6 | 6% | $5.87 |
+| ALD-SERVICETITAN | 23 | 1,730,805 | 304,596 | 2,030,104,473 | claude-opus-4-6 | 34% | $33.65 |
+| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 20% | $20.50 |
 | Tracy | 5 | 555 | 54,177 | 14,993,803 | claude-opus-4-6 | 0% | $0.25 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 9% | $8.74 |
-| EASTER-ISLAND | 3 | 137,025 | 168,243 | 174,350,579 | claude-opus-4-6 | 3% | $2.92 |
+| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 9% | $8.67 |
+| EASTER-ISLAND | 3 | 137,025 | 168,243 | 174,350,579 | claude-opus-4-6 | 3% | $2.89 |
+| job-app-assistant | 2 | 24,245 | 166,346 | 63,519,724 | claude-opus-4-6 | 1% | $1.05 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.12 |
-| job-app-assistant | 2 | 24,245 | 166,346 | 63,519,724 | claude-opus-4-6 | 1% | $1.06 |
-| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.34 |
 | ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.02 |
-| **TOTAL** | **205** | **4,699,990** | **3,547,925** | **5,978,896,855** | claude-opus-4-6 | **100%** | **$100.00** |
+| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.34 |
+| **TOTAL** | **206** | **4,729,148** | **3,623,287** | **6,030,894,981** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
