@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**February 2026** | Last updated: 2026-02-28 23:35 UTC
+**March 2026** | Last updated: 2026-03-01 01:18 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,52 +10,40 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| dark-software-factory | 69 | 472,499 | 3,683,383 | 1,996,230,263 | claude-opus-4-6 | 24% | $23.51 |
-| JOB-APPLICATIONS | 59 | 183,460 | 1,995,626 | 996,965,483 | claude-opus-4-6 | 12% | $11.74 |
-| ALD-CALL-ANALYSIS | 40 | 950,968 | 1,169,715 | 1,215,948,856 | claude-opus-4-6 | 14% | $14.32 |
-| mnt | 34 | 8,383 | 18,487 | 113,017,954 | -- | 1% | $1.33 |
-| ALD-SERVICETITAN | 23 | 1,730,805 | 304,596 | 2,030,104,473 | claude-opus-4-6 | 24% | $23.89 |
-| Claude Setup | 18 | 1,107,205 | 194,144 | 1,236,571,123 | claude-opus-4-6 | 15% | $14.55 |
-| job-app-assistant | 5 | 43,250 | 316,097 | 135,944,678 | claude-opus-4-6 | 2% | $1.60 |
-| claude-tracking | 5 | 502,025 | 54,134 | 522,927,289 | -- | 6% | $6.15 |
-| Tracy | 5 | 555 | 54,177 | 14,993,803 | claude-opus-4-6 | 0% | $0.18 |
-| EASTER-ISLAND | 4 | 143,421 | 223,912 | 202,460,661 | claude-opus-4-6 | 2% | $2.38 |
-| 2026-02-24_chenmed_senior-director-software-engineering | 2 | 6,275 | 2,003 | 7,353,627 | claude-opus-4-6 | 0% | $0.09 |
-| ald-call-analysis | 1 | 25,065 | 273 | 1,070,729 | claude-opus-4-6 | 0% | $0.01 |
-| job-application-system | 1 | 20,435 | 2,393 | 20,514,705 | claude-opus-4-6 | 0% | $0.24 |
-| **TOTAL** | **266** | **5,194,346** | **8,018,940** | **8,494,103,644** | claude-opus-4-6 | **100%** | **$100.00** |
+| JOB-APPLICATIONS | 1 | 8,186 | 131,212 | 71,603,464 | claude-opus-4-6 | 100% | $100.00 |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **1** | **8,186** | **131,212** | **71,603,464** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
 | Skill | Sessions | Projects |
 |-------|----------|----------|
-| application-analytics | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| application-outcome-logger | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| citadel-workflow | 6 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant, job-application-system |
-| claude-code-guide | 1 | ALD-CALL-ANALYSIS |
-| compliance-gate | 4 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant |
-| cost-tracking | 2 | JOB-APPLICATIONS, job-app-assistant |
-| cover-letter-writer | 6 | 2026-02-24_chenmed_senior-director-software-engineering, ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| csr-training | 6 | ALD-CALL-ANALYSIS, ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| email-pipeline-runner | 1 | JOB-APPLICATIONS |
-| email-triage | 1 | JOB-APPLICATIONS |
-| hipaa-scaffold | 6 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant, job-application-system |
-| intelligence-scout | 4 | EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant |
-| interview-debrief | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| interview-prep-builder | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| job-intake | 6 | 2026-02-24_chenmed_senior-director-software-engineering, ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| job-tracker | 5 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| offer-evaluator | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| onboarding-setup | 5 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| project-bootstrap | 6 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant, job-application-system |
-| research | 5 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-app-assistant |
-| resume-tailor | 6 | 2026-02-24_chenmed_senior-director-software-engineering, ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| search-optimizer | 3 | JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| security-hardening | 5 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| servicetitan-analysis | 6 | ALD-CALL-ANALYSIS, ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory, job-application-system |
-| session-start | 4 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory |
-| skill-creator | 4 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory |
-| task-manager | 4 | ALD-SERVICETITAN, EASTER-ISLAND, JOB-APPLICATIONS, dark-software-factory |
+| citadel-workflow | 1 | JOB-APPLICATIONS |
+| compliance-gate | 1 | JOB-APPLICATIONS |
+| intelligence-scout | 1 | JOB-APPLICATIONS |
+| research | 1 | JOB-APPLICATIONS |
+
+## Project Expenses
+
+### JOB-APPLICATIONS
+
+| Expense | Rate | Due This Month |
+|---------|------|----------------|
+| Supabase database hosting (free tier) | $0.00/mo | -- |
+| Vercel deployment (hobby tier) | $0.00/mo | -- |
+| Anthropic API credits for AI features | $0.00/mo | -- |
+| **Subtotal** | | **$0.00** |
 
 ## Monthly Total
 
