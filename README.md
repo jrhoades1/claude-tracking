@@ -10,29 +10,29 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 2 | 16,389 | 265,209 | 144,138,577 | claude-opus-4-6 | 100% | $100.00 |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| JOB-APPLICATIONS | 2 | 16,389 | 265,209 | 144,138,577 | claude-opus-4-6 | 66% | $66.50 |
+| dark-software-factory | 1 | 8,206 | 134,118 | 72,622,856 | claude-opus-4-6 | 34% | $33.50 |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **2** | **16,389** | **265,209** | **144,138,577** | claude-opus-4-6 | **100%** | **$100.00** |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **3** | **24,595** | **399,327** | **216,761,433** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
 | Skill | Sessions | Projects |
 |-------|----------|----------|
-| citadel-workflow | 1 | JOB-APPLICATIONS |
-| compliance-gate | 1 | JOB-APPLICATIONS |
-| intelligence-scout | 1 | JOB-APPLICATIONS |
-| research | 1 | JOB-APPLICATIONS |
+| citadel-workflow | 2 | JOB-APPLICATIONS, dark-software-factory |
+| compliance-gate | 2 | JOB-APPLICATIONS, dark-software-factory |
+| intelligence-scout | 2 | JOB-APPLICATIONS, dark-software-factory |
+| research | 2 | JOB-APPLICATIONS, dark-software-factory |
 
 ## Project Expenses
 
