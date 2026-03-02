@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-02 00:58 UTC
+**March 2026** | Last updated: 2026-03-02 01:19 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,20 +10,20 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| dark-software-factory | 14 | 116,333 | 2,294,855 | 1,125,393,344 | claude-opus-4-6 | 83% | $83.34 |
-| JOB-APPLICATIONS | 3 | 24,695 | 422,335 | 224,995,913 | claude-opus-4-6 | 17% | $16.66 |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| dark-software-factory | 15 | 124,779 | 2,505,387 | 1,216,066,656 | claude-opus-4-6 | 84% | $84.39 |
+| JOB-APPLICATIONS | 3 | 24,695 | 422,335 | 224,995,913 | claude-opus-4-6 | 16% | $15.61 |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **17** | **141,028** | **2,717,190** | **1,350,389,257** | claude-opus-4-6 | **100%** | **$100.00** |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **18** | **149,474** | **2,927,722** | **1,441,062,569** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
