@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-03 21:11 UTC
+**March 2026** | Last updated: 2026-03-03 21:25 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,21 +10,21 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 93 | 87,772 | 9,448,489 | 2,418,509,583 | claude-opus-4-6, claude-sonnet-4-6 | 62% | $62.32 |
-| dark-software-factory | 19 | 141,777 | 2,941,868 | 1,405,692,252 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 36% | $36.16 |
+| JOB-APPLICATIONS | 94 | 87,823 | 9,457,635 | 2,420,086,770 | claude-opus-4-6, claude-sonnet-4-6 | 62% | $62.34 |
+| dark-software-factory | 19 | 141,777 | 2,941,868 | 1,405,692,252 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 36% | $36.15 |
 | web | 8 | 3,663 | 242,087 | 58,892,281 | claude-opus-4-6, claude-sonnet-4-6 | 2% | $1.52 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **120** | **233,212** | **12,632,444** | **3,883,094,116** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| **TOTAL** | **121** | **233,263** | **12,641,590** | **3,884,671,303** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
