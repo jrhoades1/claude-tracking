@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-03 17:16 UTC
+**March 2026** | Last updated: 2026-03-03 17:21 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,21 +10,21 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 47 | 42,794 | 4,868,295 | 1,235,993,972 | claude-opus-4-6, claude-sonnet-4-6 | 46% | $45.93 |
-| dark-software-factory | 19 | 141,777 | 2,941,868 | 1,405,692,252 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 52% | $52.15 |
-| web | 4 | 960 | 210,705 | 51,718,550 | claude-sonnet-4-6 | 2% | $1.92 |
+| JOB-APPLICATIONS | 48 | 43,503 | 5,028,428 | 1,278,040,270 | claude-opus-4-6, claude-sonnet-4-6 | 47% | $46.76 |
+| dark-software-factory | 19 | 141,777 | 2,941,868 | 1,405,692,252 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 51% | $51.34 |
+| web | 4 | 960 | 210,705 | 51,718,550 | claude-sonnet-4-6 | 2% | $1.89 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **70** | **185,531** | **8,020,868** | **2,693,404,774** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **71** | **186,240** | **8,181,001** | **2,735,451,072** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
