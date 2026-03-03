@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-03 09:36 UTC
+**March 2026** | Last updated: 2026-03-03 11:02 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,21 +10,21 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| dark-software-factory | 19 | 141,777 | 2,941,868 | 1,405,692,252 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 77% | $77.15 |
-| JOB-APPLICATIONS | 19 | 28,034 | 1,143,318 | 398,915,081 | claude-opus-4-6, claude-sonnet-4-6 | 22% | $21.91 |
-| web | 3 | 344 | 65,883 | 17,200,956 | claude-sonnet-4-6 | 1% | $0.95 |
+| JOB-APPLICATIONS | 20 | 28,425 | 1,240,765 | 422,379,565 | claude-opus-4-6, claude-sonnet-4-6 | 23% | $22.90 |
+| dark-software-factory | 19 | 141,777 | 2,941,868 | 1,405,692,252 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 76% | $76.16 |
+| web | 3 | 344 | 65,883 | 17,200,956 | claude-sonnet-4-6 | 1% | $0.93 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
 | Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **41** | **170,155** | **4,151,069** | **1,821,808,289** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **42** | **170,546** | **4,248,516** | **1,845,272,773** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
