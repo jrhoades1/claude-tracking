@@ -595,3 +595,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-05,21:38:00,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,701ba293-853c-4902-8d68-5df7304f4c45,claude-opus-4-6,,18,1051,47346,109405
 2026-03-05,21:39:12,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,701ba293-853c-4902-8d68-5df7304f4c45,claude-opus-4-6,,24,1313,47574,149427
 2026-03-05,21:39:38,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,701ba293-853c-4902-8d68-5df7304f4c45,claude-opus-4-6,,27,1335,47834,169552
+2026-03-05,21:42:19,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,c163d022-9500-4e62-b44d-688bb6350080,claude-opus-4-6,,372,5387,65791,887240
