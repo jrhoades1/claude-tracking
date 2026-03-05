@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-05 21:11 UTC
+**March 2026** | Last updated: 2026-03-05 21:12 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,35 +10,35 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 236 | 736,034 | 12,286,776 | 3,177,601,628 | claude-opus-4-6, claude-sonnet-4-6 | 62% | $62.32 |
-| web | 25 | 127,229 | 686,701 | 176,078,780 | claude-opus-4-6, claude-sonnet-4-6 | 3% | $3.46 |
-| dark-software-factory | 20 | 141,902 | 2,963,008 | 1,410,734,419 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 28% | $27.61 |
+| JOB-APPLICATIONS | 236 | 736,034 | 12,286,776 | 3,177,601,628 | claude-opus-4-6, claude-sonnet-4-6 | 62% | $62.27 |
+| web | 25 | 127,229 | 686,701 | 176,078,780 | claude-opus-4-6, claude-sonnet-4-6 | 3% | $3.45 |
+| dark-software-factory | 20 | 141,902 | 2,963,008 | 1,410,734,419 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 28% | $27.59 |
 | HL-PILOT | 18 | 83,819 | 769,022 | 258,794,934 | claude-opus-4-6 | 5% | $5.07 |
 | higher-landing | 8 | 11,754 | 95,971 | 19,501,499 | claude-opus-4-6 | 0% | $0.38 |
-| app | 3 | 12,048 | 177,016 | 49,369,567 | claude-opus-4-6 | 1% | $0.97 |
-| AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.09 |
+| app | 4 | 20,015 | 189,860 | 53,687,237 | claude-opus-4-6 | 1% | $1.05 |
 | ALD-SERVICETITAN | 1 | 31 | 2,884 | 534,908 | claude-opus-4-6 | 0% | $0.01 |
+| AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.09 |
 | Downloads | 1 | 1,474 | 33,105 | 4,366,787 | claude-opus-4-6 | 0% | $0.09 |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
 | Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
 | job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **313** | **1,114,405** | **17,034,913** | **5,101,701,599** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **314** | **1,122,372** | **17,047,757** | **5,106,019,269** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
 | Skill | Sessions | Projects |
 |-------|----------|----------|
-| brand-synthesis | 1 | HL-PILOT |
+| brand-synthesis | 2 | HL-PILOT, app |
 | citadel-workflow | 2 | JOB-APPLICATIONS, dark-software-factory |
 | client-follow-up | 2 | HL-PILOT, app |
-| coaching-session | 1 | HL-PILOT |
+| coaching-session | 2 | HL-PILOT, app |
 | company-research | 2 | JOB-APPLICATIONS, web |
 | compliance-gate | 2 | JOB-APPLICATIONS, dark-software-factory |
 | intelligence-scout | 2 | JOB-APPLICATIONS, dark-software-factory |
