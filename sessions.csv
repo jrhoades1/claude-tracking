@@ -608,3 +608,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-05,22:24:27,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,701ba293-853c-4902-8d68-5df7304f4c45,claude-opus-4-6,,32,1478,48969,231507
 2026-03-05,22:27:37,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,9afcc932-3aa0-41ed-9237-daaf49efe336,claude-opus-4-6,"company-research,interview-debrief,interview-prep-builder,job-intake",27773,117994,1518114,30504465
 2026-03-05,22:32:15,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,9afcc932-3aa0-41ed-9237-daaf49efe336,claude-opus-4-6,"company-research,interview-debrief,interview-prep-builder,job-intake",27785,118929,1535939,31159041
+2026-03-05,22:39:58,HL-PILOT,c:\Users\Tracy\Projects\higher-landing,0c319660-b651-4ec2-8a07-fae2d72c9f71,claude-opus-4-6,"citadel-workflow,client-follow-up,compliance-gate,e2e-testing,mvp-gate,project-bootstrap",5786,108862,912697,37704811
