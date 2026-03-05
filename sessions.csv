@@ -505,3 +505,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-05,14:12:02,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,9afcc932-3aa0-41ed-9237-daaf49efe336,claude-opus-4-6,"company-research,interview-prep-builder",27445,43742,1079617,10562940
 2026-03-05,16:04:38,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,795f532a-7f10-4691-baaa-b11cb2a82e35,claude-opus-4-6,,3061,1000,35179,85961
 2026-03-05,16:07:28,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,795f532a-7f10-4691-baaa-b11cb2a82e35,claude-opus-4-6,,3074,1785,78126,145223
+2026-03-05,16:11:29,web,C:\Users\Tracy\Projects\job-applications\apps\web,795f532a-7f10-4691-baaa-b11cb2a82e35,claude-opus-4-6,,3109,6950,111357,1058918
