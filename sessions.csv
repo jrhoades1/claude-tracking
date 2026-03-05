@@ -615,3 +615,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-05,23:12:41,HL-PILOT,c:\Users\Tracy\Projects\higher-landing,0c319660-b651-4ec2-8a07-fae2d72c9f71,claude-opus-4-6,"citadel-workflow,client-follow-up,compliance-gate,e2e-testing,mvp-gate,project-bootstrap",5792,109146,915111,37770052
 2026-03-05,23:13:35,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,c163d022-9500-4e62-b44d-688bb6350080,claude-opus-4-6,,393,6147,79001,1221730
 2026-03-05,23:13:56,dark-software-factory,C:\Users\Tracy\Projects\dark-software-factory,20c2ee36-b680-4017-a23d-a5c0f8a81368,claude-opus-4-6,"client-follow-up,communication-profiles,skill-creator",131,16400,106277,3424320
+2026-03-05,23:14:24,web,C:\Users\Tracy\Projects\job-applications\apps\web,aafb9b65-fd03-4da3-87d4-3bec95dac62f,claude-opus-4-6,,68,6606,105179,1484871
