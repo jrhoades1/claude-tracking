@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-05 20:11 UTC
+**March 2026** | Last updated: 2026-03-05 20:12 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -13,22 +13,22 @@
 | JOB-APPLICATIONS | 232 | 650,919 | 11,951,539 | 3,092,072,657 | claude-opus-4-6, claude-sonnet-4-6 | 67% | $66.77 |
 | web | 22 | 44,143 | 372,928 | 96,601,892 | claude-opus-4-6, claude-sonnet-4-6 | 2% | $2.09 |
 | dark-software-factory | 20 | 141,902 | 2,963,008 | 1,410,734,419 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 30% | $30.41 |
-| higher-landing | 4 | 11,646 | 88,818 | 18,653,699 | claude-opus-4-6 | 0% | $0.40 |
-| Downloads | 1 | 1,474 | 33,105 | 4,366,787 | claude-opus-4-6 | 0% | $0.09 |
+| higher-landing | 5 | 11,664 | 90,054 | 18,779,191 | claude-opus-4-6 | 0% | $0.41 |
 | AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.10 |
-| app | 1 | 3,882 | 35,882 | 5,784,345 | claude-opus-4-6 | 0% | $0.13 |
 | ALD-SERVICETITAN | 1 | 31 | 2,884 | 534,908 | claude-opus-4-6 | 0% | $0.01 |
+| Downloads | 1 | 1,474 | 33,105 | 4,366,787 | claude-opus-4-6 | 0% | $0.09 |
+| app | 1 | 3,882 | 35,882 | 5,784,345 | claude-opus-4-6 | 0% | $0.13 |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
 | claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
 | job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **282** | **854,111** | **15,468,594** | **4,633,467,784** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **283** | **854,129** | **15,469,830** | **4,633,593,276** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
