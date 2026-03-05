@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-05 20:56 UTC
+**March 2026** | Last updated: 2026-03-05 20:58 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,26 +10,26 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 234 | 680,579 | 12,065,686 | 3,121,147,525 | claude-opus-4-6, claude-sonnet-4-6 | 63% | $63.12 |
-| web | 24 | 99,492 | 575,284 | 147,461,277 | claude-opus-4-6, claude-sonnet-4-6 | 3% | $2.98 |
-| dark-software-factory | 20 | 141,902 | 2,963,008 | 1,410,734,419 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 28% | $28.48 |
-| HL-PILOT | 12 | 46,145 | 621,077 | 215,987,968 | claude-opus-4-6 | 4% | $4.36 |
+| JOB-APPLICATIONS | 235 | 708,305 | 12,176,201 | 3,149,332,634 | claude-opus-4-6, claude-sonnet-4-6 | 63% | $63.33 |
+| web | 24 | 99,492 | 575,284 | 147,461,277 | claude-opus-4-6, claude-sonnet-4-6 | 3% | $2.97 |
+| dark-software-factory | 20 | 141,902 | 2,963,008 | 1,410,734,419 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 28% | $28.32 |
+| HL-PILOT | 12 | 46,145 | 621,077 | 215,987,968 | claude-opus-4-6 | 4% | $4.34 |
 | higher-landing | 8 | 11,754 | 95,971 | 19,501,499 | claude-opus-4-6 | 0% | $0.39 |
 | app | 2 | 7,884 | 88,165 | 22,875,335 | claude-opus-4-6 | 0% | $0.46 |
-| AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.10 |
+| AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.09 |
 | ALD-SERVICETITAN | 1 | 31 | 2,884 | 534,908 | claude-opus-4-6 | 0% | $0.01 |
 | Downloads | 1 | 1,474 | 33,105 | 4,366,787 | claude-opus-4-6 | 0% | $0.09 |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
 | Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **303** | **989,375** | **16,465,610** | **4,947,328,795** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **304** | **1,017,101** | **16,576,125** | **4,975,513,904** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
