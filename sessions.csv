@@ -689,3 +689,5 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-06,15:02:23,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,55aa551b-7c48-4f11-87d0-3f5e4770f36c,claude-opus-4-6,"interview-debrief,interview-prep-builder",126,19047,241747,3703576
 2026-03-06,15:02:23,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,aafb9b65-fd03-4da3-87d4-3bec95dac62f,claude-opus-4-6,e2e-testing,19028,104755,1307984,46905499
 2026-03-06,15:11:49,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,55aa551b-7c48-4f11-87d0-3f5e4770f36c,claude-opus-4-6,"interview-debrief,interview-prep-builder",130,19245,243846,3839941
+2026-03-06,15:11:50,HL-PILOT,c:\Users\Tracy\Projects\higher-landing,37da6d20-520e-4996-aaa4-5521335448a1,claude-opus-4-6,demo-deck,279,80305,527605,13162094
+2026-03-06,15:12:20,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,37da6d20-520e-4996-aaa4-5521335448a1,claude-opus-4-6,demo-deck,283,80569,528304,13289415
