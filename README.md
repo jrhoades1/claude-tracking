@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-06 13:04 UTC
+**March 2026** | Last updated: 2026-03-06 13:08 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,26 +10,26 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 254 | 958,980 | 12,868,071 | 3,365,417,487 | claude-opus-4-6, claude-sonnet-4-6 | 59% | $58.68 |
-| HL-PILOT | 41 | 132,468 | 1,696,509 | 554,717,816 | claude-opus-4-6 | 10% | $9.66 |
-| web | 32 | 238,457 | 873,780 | 236,688,816 | claude-opus-4-6, claude-sonnet-4-6 | 4% | $4.13 |
-| dark-software-factory | 23 | 142,208 | 3,004,393 | 1,418,130,243 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 25% | $24.68 |
+| JOB-APPLICATIONS | 255 | 977,846 | 12,947,035 | 3,397,722,162 | claude-opus-4-6, claude-sonnet-4-6 | 59% | $58.91 |
+| HL-PILOT | 41 | 132,468 | 1,696,509 | 554,717,816 | claude-opus-4-6 | 10% | $9.61 |
+| web | 32 | 238,457 | 873,780 | 236,688,816 | claude-opus-4-6, claude-sonnet-4-6 | 4% | $4.11 |
+| dark-software-factory | 23 | 142,208 | 3,004,393 | 1,418,130,243 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 25% | $24.54 |
+| app | 8 | 43,313 | 420,455 | 133,456,985 | claude-opus-4-6 | 2% | $2.31 |
 | higher-landing | 8 | 11,754 | 95,971 | 19,501,499 | claude-opus-4-6 | 0% | $0.34 |
-| app | 8 | 43,313 | 420,455 | 133,456,985 | claude-opus-4-6 | 2% | $2.33 |
 | claude-tracking | 2 | 56 | 6,959 | 662,708 | claude-opus-4-6 | 0% | $0.01 |
 | ALD-SERVICETITAN | 1 | 31 | 2,884 | 534,908 | claude-opus-4-6 | 0% | $0.01 |
-| Downloads | 1 | 1,474 | 33,105 | 4,366,787 | claude-opus-4-6 | 0% | $0.08 |
 | AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.08 |
+| Downloads | 1 | 1,474 | 33,105 | 4,366,787 | claude-opus-4-6 | 0% | $0.08 |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
 | Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
 | Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **371** | **1,528,855** | **19,022,557** | **5,738,196,326** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **372** | **1,547,721** | **19,101,521** | **5,770,501,001** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
@@ -42,7 +42,7 @@
 | communication-profiles | 2 | HL-PILOT, dark-software-factory |
 | company-research | 2 | JOB-APPLICATIONS, web |
 | compliance-gate | 4 | HL-PILOT, JOB-APPLICATIONS, app, dark-software-factory |
-| e2e-testing | 2 | HL-PILOT, app |
+| e2e-testing | 3 | HL-PILOT, JOB-APPLICATIONS, app |
 | intelligence-scout | 2 | JOB-APPLICATIONS, dark-software-factory |
 | interview-debrief | 2 | JOB-APPLICATIONS, web |
 | interview-prep-builder | 2 | JOB-APPLICATIONS, web |
