@@ -814,3 +814,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-09,21:50:53,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,ad0e8df1-c2b4-4ac1-9262-fa8a89aea767,claude-opus-4-6,"job-intake,linkedin-optimizer,search-optimizer",79,17572,228948,1529807
 2026-03-09,21:51:13,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,ad0e8df1-c2b4-4ac1-9262-fa8a89aea767,claude-opus-4-6,"job-intake,linkedin-optimizer,search-optimizer",82,17585,230073,1587654
 2026-03-09,21:51:32,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,ad0e8df1-c2b4-4ac1-9262-fa8a89aea767,claude-opus-4-6,"job-intake,linkedin-optimizer,search-optimizer",85,17939,230894,1646626
+2026-03-09,21:56:58,app,C:\Users\Tracy\Projects\higher-landing\app,0ca9cede-078d-41e4-9d2d-cff4b333c626,claude-opus-4-6,,177,31785,256933,9169072
