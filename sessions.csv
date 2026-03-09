@@ -800,3 +800,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-09,21:06:15,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,0ca9cede-078d-41e4-9d2d-cff4b333c626,claude-opus-4-6,,42,6341,82052,757440
 2026-03-09,21:14:26,HL-PILOT,c:\Users\Tracy\Projects\higher-landing,0ca9cede-078d-41e4-9d2d-cff4b333c626,claude-opus-4-6,,45,6662,83428,805551
 2026-03-09,21:17:31,HL-PILOT,c:\Users\Tracy\Projects\higher-landing,0ca9cede-078d-41e4-9d2d-cff4b333c626,claude-opus-4-6,,52,6903,87031,955663
+2026-03-09,21:21:03,app,C:\Users\Tracy\Projects\higher-landing\app,0ca9cede-078d-41e4-9d2d-cff4b333c626,claude-opus-4-6,,92,13929,128734,2810548
