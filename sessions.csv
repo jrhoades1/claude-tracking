@@ -916,3 +916,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-10,23:35:14,jimmys-plan,C:\Users\Tracy\Projects\jimmys-plan,50dc9c7c-6e0a-4797-9673-2f07853da322,claude-opus-4-6,project-bootstrap,4370,54751,712830,21920436
 2026-03-10,23:41:56,jimmys-plan,c:\Users\Tracy\Projects\jimmys-plan,50dc9c7c-6e0a-4797-9673-2f07853da322,claude-opus-4-6,project-bootstrap,4379,56447,743217,22111473
 2026-03-10,23:46:36,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,f0048841-bc71-4c1a-b0c5-f35ccdd951a8,claude-opus-4-6,,153,1462,62801,150833
+2026-03-10,23:48:09,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,f0048841-bc71-4c1a-b0c5-f35ccdd951a8,claude-opus-4-6,,159,1484,64985,195877
