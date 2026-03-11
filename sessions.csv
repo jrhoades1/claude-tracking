@@ -940,3 +940,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-11,00:43:37,jimmys-plan,c:\Users\Tracy\Projects\jimmys-plan,50dc9c7c-6e0a-4797-9673-2f07853da322,claude-opus-4-6,project-bootstrap,4397,58176,749343,22289639
 2026-03-11,00:44:22,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,f0048841-bc71-4c1a-b0c5-f35ccdd951a8,claude-opus-4-6,servicetitan-analysis,294,33822,229028,4896835
 2026-03-11,00:45:50,ALD-SERVICETITAN,c:\Users\Tracy\Projects\servicetitan-mcp-server,f0048841-bc71-4c1a-b0c5-f35ccdd951a8,claude-opus-4-6,servicetitan-analysis,301,35498,234649,5255085
+2026-03-11,00:47:46,jimmys-plan,c:\Users\Tracy\Projects\jimmys-plan,50dc9c7c-6e0a-4797-9673-2f07853da322,claude-opus-4-6,project-bootstrap,4401,58771,750647,22353003
