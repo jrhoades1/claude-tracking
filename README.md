@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-13 18:12 UTC
+**March 2026** | Last updated: 2026-03-13 18:20 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,9 +10,9 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 495 | 1,564,915 | 19,316,033 | 5,768,979,163 | claude-opus-4-6, claude-sonnet-4-6 | 44% | $43.71 |
+| JOB-APPLICATIONS | 496 | 1,564,945 | 19,320,252 | 5,769,692,718 | claude-opus-4-6, claude-sonnet-4-6 | 44% | $43.71 |
 | HL-PILOT | 214 | 537,078 | 7,526,151 | 2,523,818,069 | claude-opus-4-6 | 19% | $19.11 |
-| jimmys-plan | 156 | 639,880 | 6,052,200 | 2,076,382,064 | claude-opus-4-6 | 16% | $15.73 |
+| jimmys-plan | 156 | 639,880 | 6,052,200 | 2,076,382,064 | claude-opus-4-6 | 16% | $15.72 |
 | ALD-SERVICETITAN | 91 | 786,761 | 1,796,079 | 506,045,261 | claude-opus-4-6 | 4% | $3.84 |
 | web | 53 | 287,627 | 1,386,651 | 391,849,895 | claude-opus-4-6, claude-sonnet-4-6 | 3% | $2.97 |
 | app | 31 | 137,115 | 1,303,285 | 447,870,961 | claude-opus-4-6 | 3% | $3.39 |
@@ -24,15 +24,15 @@
 | Downloads | 2 | 1,499 | 38,697 | 4,683,457 | claude-opus-4-6 | 0% | $0.04 |
 | erin-materials-2026-03-12 | 2 | 3,297 | 7,784 | 1,670,533 | claude-opus-4-6 | 0% | $0.01 |
 | AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.04 |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
 | ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **1093** | **4,117,863** | **40,706,805** | **13,201,932,447** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **1094** | **4,117,893** | **40,711,024** | **13,202,646,002** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
