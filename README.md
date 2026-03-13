@@ -12,7 +12,7 @@
 |---------|----------|-------|--------|-------|--------|-------|-----------|
 | JOB-APPLICATIONS | 493 | 1,558,264 | 19,273,371 | 5,760,893,526 | claude-opus-4-6, claude-sonnet-4-6 | 46% | $45.52 |
 | HL-PILOT | 213 | 535,132 | 7,470,596 | 2,507,787,708 | claude-opus-4-6 | 20% | $19.81 |
-| jimmys-plan | 116 | 618,320 | 4,714,004 | 1,556,893,482 | claude-opus-4-6 | 12% | $12.30 |
+| jimmys-plan | 117 | 621,565 | 4,719,575 | 1,557,867,847 | claude-opus-4-6 | 12% | $12.31 |
 | ALD-SERVICETITAN | 91 | 786,761 | 1,796,079 | 506,045,261 | claude-opus-4-6 | 4% | $4.00 |
 | web | 52 | 287,600 | 1,382,457 | 391,177,681 | claude-opus-4-6, claude-sonnet-4-6 | 3% | $3.09 |
 | app | 31 | 137,115 | 1,303,285 | 447,870,961 | claude-opus-4-6 | 4% | $3.54 |
@@ -20,19 +20,19 @@
 | higher-landing | 8 | 11,754 | 95,971 | 19,501,499 | claude-opus-4-6 | 0% | $0.15 |
 | job-app-assistant | 5 | 630 | 54,419 | 18,926,675 | claude-opus-4-6 | 0% | $0.15 |
 | communications | 3 | 3,572 | 79,365 | 14,849,887 | claude-opus-4-6 | 0% | $0.12 |
-| Downloads | 2 | 1,499 | 38,697 | 4,683,457 | claude-opus-4-6 | 0% | $0.04 |
-| claude-tracking | 2 | 56 | 6,959 | 662,708 | claude-opus-4-6 | 0% | $0.01 |
 | erin-materials-2026-03-12 | 2 | 3,297 | 7,784 | 1,670,533 | claude-opus-4-6 | 0% | $0.01 |
+| claude-tracking | 2 | 56 | 6,959 | 662,708 | claude-opus-4-6 | 0% | $0.01 |
+| Downloads | 2 | 1,499 | 38,697 | 4,683,457 | claude-opus-4-6 | 0% | $0.04 |
 | AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.04 |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
 | Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **1049** | **4,087,679** | **39,266,198** | **12,657,655,653** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **1050** | **4,090,924** | **39,271,769** | **12,658,630,018** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
