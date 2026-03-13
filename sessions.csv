@@ -1419,3 +1419,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-13,22:22:36,VENT-THREAD,C:\Users\Tracy\Projects\vent-thread,e052d721-1c44-4de3-8550-ab57ed5f0efc,claude-opus-4-6,,12365,28906,356307,6310324
 2026-03-13,22:24:22,VENT-THREAD,C:\Users\Tracy\Projects\vent-thread,e052d721-1c44-4de3-8550-ab57ed5f0efc,claude-opus-4-6,,12424,31413,472752,7512000
 2026-03-13,22:25:01,dark-software-factory,c:\Users\Tracy\Projects\dark-software-factory,e052d721-1c44-4de3-8550-ab57ed5f0efc,claude-opus-4-6,,12435,32002,564968,7650157
+2026-03-13,22:35:15,jimmys-plan,c:\Users\Tracy\Projects\jimmys-plan,7cdd9d6e-b732-4369-ad15-eebe0ca4830c,claude-opus-4-6,,6,232,27270,13034
