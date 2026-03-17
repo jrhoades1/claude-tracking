@@ -10,9 +10,9 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 588 | 1,771,626 | 22,064,023 | 6,991,628,351 | claude-opus-4-6, claude-sonnet-4-6 | 38% | $38.34 |
-| HL-PILOT | 310 | 916,752 | 11,891,850 | 5,564,100,947 | claude-opus-4-6 | 30% | $30.48 |
-| jimmys-plan | 177 | 656,358 | 6,362,864 | 2,186,028,521 | claude-opus-4-6 | 12% | $11.99 |
+| JOB-APPLICATIONS | 588 | 1,771,626 | 22,064,023 | 6,991,628,351 | claude-opus-4-6, claude-sonnet-4-6 | 38% | $38.30 |
+| HL-PILOT | 311 | 916,978 | 11,925,045 | 5,581,512,197 | claude-opus-4-6 | 31% | $30.54 |
+| jimmys-plan | 177 | 656,358 | 6,362,864 | 2,186,028,521 | claude-opus-4-6 | 12% | $11.97 |
 | ALD-SERVICETITAN | 91 | 786,761 | 1,796,079 | 506,045,261 | claude-opus-4-6 | 3% | $2.78 |
 | web | 65 | 310,999 | 1,559,507 | 448,251,628 | claude-opus-4-6, claude-sonnet-4-6 | 2% | $2.46 |
 | app | 44 | 168,237 | 1,718,500 | 679,703,468 | claude-opus-4-6 | 4% | $3.72 |
@@ -26,17 +26,17 @@
 | communications | 3 | 3,572 | 79,365 | 14,849,887 | claude-opus-4-6 | 0% | $0.08 |
 | claude-tracking | 3 | 76 | 8,132 | 978,345 | claude-opus-4-6 | 0% | $0.01 |
 | erin-materials-2026-03-12 | 2 | 3,297 | 7,784 | 1,670,533 | claude-opus-4-6 | 0% | $0.01 |
-| extension | 1 | 356 | 53,387 | 22,827,151 | claude-opus-4-6 | 0% | $0.13 |
+| extension | 1 | 356 | 53,387 | 22,827,151 | claude-opus-4-6 | 0% | $0.12 |
 | AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.03 |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **1383** | **4,854,580** | **49,870,777** | **18,243,007,157** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **1384** | **4,854,806** | **49,903,972** | **18,260,418,407** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
