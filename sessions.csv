@@ -1610,3 +1610,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-17,12:31:42,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,ba688de5-a085-446c-91d7-ce6c9dfa25fb,claude-opus-4-6,,920,97066,1802202,79717103
 2026-03-17,12:36:50,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,ba688de5-a085-446c-91d7-ce6c9dfa25fb,claude-opus-4-6,,929,97678,1806305,81720888
 2026-03-17,12:42:09,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,10203b0f-018f-4580-9e21-aa83438cb0ec,claude-opus-4-6,,17,782,94760,61883
+2026-03-17,13:01:46,jimmys-plan,c:\Users\Tracy\Projects\jimmys-plan,dd0ce9b6-c260-4118-b44f-01f2120d9037,claude-opus-4-6,,10,242,46736,41005
