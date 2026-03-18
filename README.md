@@ -10,9 +10,9 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 591 | 1,772,133 | 22,069,538 | 6,992,910,788 | claude-opus-4-6, claude-sonnet-4-6 | 38% | $37.92 |
-| HL-PILOT | 329 | 920,005 | 12,346,791 | 5,746,228,065 | claude-opus-4-6 | 31% | $31.12 |
-| jimmys-plan | 177 | 656,358 | 6,362,864 | 2,186,028,521 | claude-opus-4-6 | 12% | $11.85 |
+| JOB-APPLICATIONS | 591 | 1,772,133 | 22,069,538 | 6,992,910,788 | claude-opus-4-6, claude-sonnet-4-6 | 38% | $37.89 |
+| HL-PILOT | 330 | 920,194 | 12,387,661 | 5,758,555,990 | claude-opus-4-6 | 31% | $31.17 |
+| jimmys-plan | 177 | 656,358 | 6,362,864 | 2,186,028,521 | claude-opus-4-6 | 12% | $11.84 |
 | ALD-SERVICETITAN | 98 | 807,455 | 1,872,873 | 519,736,889 | claude-opus-4-6 | 3% | $2.82 |
 | web | 65 | 310,999 | 1,559,507 | 448,251,628 | claude-opus-4-6, claude-sonnet-4-6 | 2% | $2.43 |
 | app | 45 | 168,398 | 1,758,214 | 690,437,399 | claude-opus-4-6 | 4% | $3.74 |
@@ -28,15 +28,15 @@
 | erin-materials-2026-03-12 | 2 | 3,297 | 7,784 | 1,670,533 | claude-opus-4-6 | 0% | $0.01 |
 | AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.03 |
 | extension | 1 | 356 | 53,387 | 22,827,151 | claude-opus-4-6 | 0% | $0.12 |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
 | Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **1414** | **4,879,354** | **50,449,043** | **18,451,131,398** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| **TOTAL** | **1415** | **4,879,543** | **50,489,913** | **18,463,459,323** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
