@@ -110,5 +110,9 @@
   "Projects": {
     "cwd": "C:\\Users\\Tracy\\Projects",
     "last_seen": "2026-03-21"
+  },
+  "tmp": {
+    "cwd": "C:\\tmp",
+    "last_seen": "2026-03-21"
   }
 }
