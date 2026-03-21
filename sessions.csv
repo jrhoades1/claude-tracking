@@ -1864,3 +1864,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-21,18:58:41,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications\.claude\worktrees\priceless-albattani,161b43c2-70d9-4d75-ab7e-4de54b4f10a8,claude-sonnet-4-6,,9,816,28274,84616
 2026-03-21,19:00:35,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,f01c27ca-f0fb-4c19-9dfb-7cb8c0f319da,claude-sonnet-4-6,,21,2213,32128,366756
 2026-03-21,19:06:41,web,C:\Users\Tracy\Projects\job-applications\apps\web,f01c27ca-f0fb-4c19-9dfb-7cb8c0f319da,claude-sonnet-4-6,,67,9587,173253,2396219
+2026-03-21,19:06:51,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications\.claude\worktrees\thirsty-maxwell,f01c27ca-f0fb-4c19-9dfb-7cb8c0f319da,claude-sonnet-4-6,,70,9588,175819,2463763
