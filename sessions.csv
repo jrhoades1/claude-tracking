@@ -1897,3 +1897,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-22,02:05:22,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications\.claude\worktrees\naughty-knuth,99d84934-639e-4a5c-9ade-1c2a4d4512c3,claude-sonnet-4-6,,7,497,26825,39486
 2026-03-22,02:12:27,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications\.claude\worktrees\adoring-wright,039c6e55-0793-4641-92a7-31a1dc83f90f,claude-sonnet-4-6,,8,805,41582,61534
 2026-03-22,02:15:16,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,6948c217-25bb-40a3-9eae-36e2577a44a5,claude-sonnet-4-6,,7,310,27063,39474
+2026-03-22,02:15:50,web,C:\Users\Tracy\Projects\job-applications\apps\web,15bdedba-2674-4794-8ba4-894963b84550,claude-sonnet-4-6,,7,246,26685,39449
