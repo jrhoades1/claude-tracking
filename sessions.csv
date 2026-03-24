@@ -1958,3 +1958,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-24,21:29:32,app,C:\Users\Tracy\Projects\nicoles-project\app,58e09c0e-673c-4c24-a35a-700aa3878baf,claude-opus-4-6,,191,36060,130092,5891661
 2026-03-24,21:29:39,nicoles-project,c:\Users\Tracy\Projects\nicoles-project,58e09c0e-673c-4c24-a35a-700aa3878baf,claude-opus-4-6,,194,36101,130483,5974535
 2026-03-24,21:31:40,app,C:\Users\Tracy\Projects\nicoles-project\app,58e09c0e-673c-4c24-a35a-700aa3878baf,claude-opus-4-6,,200,36527,132059,6308489
+2026-03-24,21:35:58,jimmys-plan,C:\Users\Tracy\Projects\jimmys-plan,35ff5c03-43d8-4f3b-b9a4-8a0366e5ed9d,claude-opus-4-6,,85,10311,81929,2251634
