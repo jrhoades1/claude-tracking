@@ -122,5 +122,9 @@
   "ald-monday-digest": {
     "cwd": "C:\\Users\\Tracy\\Projects\\ald-monday-digest",
     "last_seen": "2026-03-26"
+  },
+  "worktrees": {
+    "cwd": "C:\\Users\\Tracy\\Projects\\job-applications\\.claude\\worktrees",
+    "last_seen": "2026-03-26"
   }
 }
