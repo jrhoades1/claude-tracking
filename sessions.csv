@@ -2172,3 +2172,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-03-30,18:26:43,jimmys-plan,c:\Users\Tracy\Projects\jimmys-plan,ad9b01f2-53f9-4583-8541-6f9852aa2e41,claude-opus-4-6,,64,5644,135022,788347
 2026-03-30,18:27:24,jimmys-plan,c:\Users\Tracy\Projects\jimmys-plan,ad9b01f2-53f9-4583-8541-6f9852aa2e41,claude-opus-4-6,,67,5726,135167,825154
 2026-03-31,14:19:52,ALD-SERVICETITAN,C:\Users\Tracy\Projects\servicetitan-mcp-server,905c6e2d-c0de-4a05-bc26-aab6f74f5141,claude-opus-4-6,servicetitan-analysis,48,9209,187948,525323
+2026-03-31,15:33:51,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,6a206354-5914-4c45-9238-5f2bd1730c5a,claude-opus-4-6,,30,1867,87527,475147
