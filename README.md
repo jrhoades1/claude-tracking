@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-31 16:03 UTC
+**March 2026** | Last updated: 2026-03-31 16:04 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,10 +10,10 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 724 | 1,987,612 | 25,146,876 | 8,430,247,542 | claude-opus-4-6, claude-sonnet-4-6 | 35% | $35.02 |
-| HL-PILOT | 458 | 1,078,936 | 16,432,326 | 8,189,806,977 | claude-opus-4-6, claude-sonnet-4-6 | 34% | $33.98 |
-| jimmys-plan | 199 | 658,420 | 6,493,720 | 2,219,171,400 | claude-opus-4-6 | 9% | $9.22 |
-| ALD-SERVICETITAN | 167 | 921,682 | 4,163,027 | 1,323,421,229 | claude-opus-4-6 | 6% | $5.50 |
+| JOB-APPLICATIONS | 724 | 1,987,612 | 25,146,876 | 8,430,247,542 | claude-opus-4-6, claude-sonnet-4-6 | 35% | $35.01 |
+| HL-PILOT | 459 | 1,079,133 | 16,449,814 | 8,197,717,399 | claude-opus-4-6, claude-sonnet-4-6 | 34% | $34.00 |
+| jimmys-plan | 199 | 658,420 | 6,493,720 | 2,219,171,400 | claude-opus-4-6 | 9% | $9.21 |
+| ALD-SERVICETITAN | 167 | 921,682 | 4,163,027 | 1,323,421,229 | claude-opus-4-6 | 5% | $5.50 |
 | web | 79 | 318,904 | 1,828,593 | 550,072,180 | claude-opus-4-6, claude-sonnet-4-6 | 2% | $2.29 |
 | nicoles-project | 72 | 10,755 | 1,392,867 | 346,874,460 | claude-opus-4-6 | 1% | $1.44 |
 | app | 65 | 202,810 | 2,401,206 | 1,010,164,420 | claude-opus-4-6 | 4% | $4.19 |
@@ -30,19 +30,19 @@
 | communications | 3 | 3,572 | 79,365 | 14,849,887 | claude-opus-4-6 | 0% | $0.06 |
 | Claude Setup | 2 | 19 | 1,028 | 319,058 | claude-opus-4-6 | 0% | $0.00 |
 | erin-materials-2026-03-12 | 2 | 3,297 | 7,784 | 1,670,533 | claude-opus-4-6 | 0% | $0.01 |
+| worktrees | 1 | 30 | 2,344 | 514,722 | claude-opus-4-6 | 0% | $0.00 |
+| AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.02 |
+| Projects | 1 | 7 | 513 | 52,730 | claude-sonnet-4-6 | 0% | $0.00 |
 | tmp | 1 | 19 | 2,094 | 381,586 | claude-sonnet-4-6 | 0% | $0.00 |
 | extension | 1 | 356 | 53,387 | 22,827,151 | claude-opus-4-6 | 0% | $0.09 |
-| AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.02 |
-| worktrees | 1 | 30 | 2,344 | 514,722 | claude-opus-4-6 | 0% | $0.00 |
-| Projects | 1 | 7 | 513 | 52,730 | claude-sonnet-4-6 | 0% | $0.00 |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **1922** | **5,435,062** | **62,863,346** | **24,084,146,123** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **1923** | **5,435,259** | **62,880,834** | **24,092,056,545** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
