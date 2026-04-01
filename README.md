@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**March 2026** | Last updated: 2026-03-31 19:19 UTC
+**April 2026** | Last updated: 2026-04-01 17:01 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,69 +10,39 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 730 | 1,988,361 | 25,162,876 | 8,434,571,851 | claude-opus-4-6, claude-sonnet-4-6 | 34% | $34.28 |
-| HL-PILOT | 485 | 1,087,489 | 17,118,432 | 8,650,601,374 | claude-opus-4-6, claude-sonnet-4-6 | 35% | $35.12 |
-| jimmys-plan | 199 | 658,420 | 6,493,720 | 2,219,171,400 | claude-opus-4-6 | 9% | $9.02 |
-| ALD-SERVICETITAN | 167 | 921,682 | 4,163,027 | 1,323,421,229 | claude-opus-4-6 | 5% | $5.38 |
-| web | 79 | 318,904 | 1,828,593 | 550,072,180 | claude-opus-4-6, claude-sonnet-4-6 | 2% | $2.24 |
-| nicoles-project | 72 | 10,755 | 1,392,867 | 346,874,460 | claude-opus-4-6 | 1% | $1.41 |
-| app | 69 | 204,006 | 2,497,692 | 1,072,395,031 | claude-opus-4-6 | 4% | $4.36 |
-| dark-software-factory | 39 | 179,650 | 3,157,546 | 1,462,374,307 | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | 6% | $5.94 |
-| ald-monday-digest | 27 | 7,086 | 424,219 | 136,077,800 | claude-opus-4-6 | 1% | $0.55 |
-| NCAA | 23 | 1,312 | 212,282 | 18,385,614 | claude-opus-4-6 | 0% | $0.08 |
-| Misc Folder | 16 | 4,732 | 94,211 | 9,377,073 | claude-opus-4-6 | 0% | $0.04 |
-| vent-thread | 14 | 3,122 | 480,077 | 190,726,366 | claude-opus-4-6 | 1% | $0.77 |
-| higher-landing | 8 | 11,754 | 95,971 | 19,501,499 | claude-opus-4-6 | 0% | $0.08 |
-| Downloads | 6 | 1,976 | 69,850 | 9,276,073 | claude-opus-4-6 | 0% | $0.04 |
-| VENT-THREAD | 6 | 38,225 | 243,582 | 104,510,117 | claude-opus-4-6 | 0% | $0.42 |
-| job-app-assistant | 5 | 630 | 54,419 | 18,926,675 | claude-opus-4-6 | 0% | $0.08 |
-| communications | 3 | 3,572 | 79,365 | 14,849,887 | claude-opus-4-6 | 0% | $0.06 |
-| claude-tracking | 3 | 76 | 8,132 | 978,345 | claude-opus-4-6 | 0% | $0.00 |
-| Claude Setup | 2 | 19 | 1,028 | 319,058 | claude-opus-4-6 | 0% | $0.00 |
-| erin-materials-2026-03-12 | 2 | 3,297 | 7,784 | 1,670,533 | claude-opus-4-6 | 0% | $0.01 |
-| Projects | 1 | 7 | 513 | 52,730 | claude-sonnet-4-6 | 0% | $0.00 |
-| extension | 1 | 356 | 53,387 | 22,827,151 | claude-opus-4-6 | 0% | $0.09 |
-| tmp | 1 | 19 | 2,094 | 381,586 | claude-sonnet-4-6 | 0% | $0.00 |
-| worktrees | 1 | 30 | 2,344 | 514,722 | claude-opus-4-6 | 0% | $0.00 |
-| AIOS | 1 | 114 | 20,430 | 4,719,077 | claude-opus-4-6 | 0% | $0.02 |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| JOB-APPLICATIONS | 1 | 30 | 2,421 | 488,707 | claude-opus-4-6 | 100% | $100.00 |
 | Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| extension | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
+| Downloads | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
+| tmp | 0 | -- | -- | -- | -- | -- | -- |
+| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| app | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| web | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **1960** | **5,445,594** | **63,664,441** | **24,612,576,138** | <synthetic>, claude-opus-4-6, claude-sonnet-4-6 | **100%** | **$100.00** |
-
-## Skills Used
-
-| Skill | Sessions | Projects |
-|-------|----------|----------|
-| anthropic-skills:docx | 1 | tmp |
-| anthropic-skills:pdf | 1 | tmp |
-| brand-synthesis | 2 | HL-PILOT, app |
-| citadel-workflow | 4 | HL-PILOT, JOB-APPLICATIONS, app, dark-software-factory |
-| client-deck | 3 | HL-PILOT, app, communications |
-| client-follow-up | 3 | HL-PILOT, app, dark-software-factory |
-| coaching-session | 2 | HL-PILOT, app |
-| communication-profiles | 2 | HL-PILOT, dark-software-factory |
-| company-research | 2 | JOB-APPLICATIONS, web |
-| compliance-gate | 4 | HL-PILOT, JOB-APPLICATIONS, app, dark-software-factory |
-| demo-deck | 3 | HL-PILOT, app, communications |
-| e2e-testing | 6 | HL-PILOT, JOB-APPLICATIONS, VENT-THREAD, app, dark-software-factory, vent-thread |
-| intelligence-scout | 2 | JOB-APPLICATIONS, dark-software-factory |
-| interview-debrief | 2 | JOB-APPLICATIONS, web |
-| interview-prep-builder | 2 | JOB-APPLICATIONS, web |
-| job-intake | 4 | JOB-APPLICATIONS, jimmys-plan, job-app-assistant, web |
-| linkedin-optimizer | 1 | JOB-APPLICATIONS |
-| mvp-gate | 2 | HL-PILOT, app |
-| project-bootstrap | 7 | HL-PILOT, VENT-THREAD, app, dark-software-factory, higher-landing, jimmys-plan, vent-thread |
-| research | 2 | JOB-APPLICATIONS, dark-software-factory |
-| resume-tailor | 2 | JOB-APPLICATIONS, jimmys-plan |
-| search-optimizer | 1 | JOB-APPLICATIONS |
-| servicetitan-analysis | 1 | ALD-SERVICETITAN |
-| session-start | 1 | dark-software-factory |
-| skill-creator | 2 | HL-PILOT, dark-software-factory |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
+| jimmys-plan | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **1** | **30** | **2,421** | **488,707** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Project Expenses
 
