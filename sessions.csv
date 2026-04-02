@@ -2243,3 +2243,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-04-02,12:44:49,dark-software-factory,C:\Users\Tracy\Projects\dark-software-factory,a871e4f8-6953-4b0c-a989-7c0a5380e6a5,claude-opus-4-6,"compliance-gate,demo-deck,llm-council",224,15257,288488,1738807
 2026-04-02,12:45:34,dark-software-factory,C:\Users\Tracy\Projects\dark-software-factory,a871e4f8-6953-4b0c-a989-7c0a5380e6a5,claude-opus-4-6,"compliance-gate,demo-deck,llm-council",228,15510,346640,1819425
 2026-04-02,12:45:58,jimmys-plan,C:\Users\Tracy\Projects\jimmys-plan,4d702b8a-13dc-45f5-9f8f-22eca6c140dc,claude-opus-4-6,llm-council,94,16714,189326,1503896
+2026-04-02,12:48:44,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,74466823-37a1-42f3-8a5d-97520ab37744,claude-opus-4-6,,22,826,46162,204217
