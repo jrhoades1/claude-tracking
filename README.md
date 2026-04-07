@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**April 2026** | Last updated: 2026-04-07 17:42 UTC
+**April 2026** | Last updated: 2026-04-07 17:47 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,40 +10,40 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 45 | 108,728 | 861,299 | 230,729,324 | claude-opus-4-6 | 65% | $65.12 |
-| jimmys-plan | 7 | 364 | 51,220 | 7,964,259 | claude-opus-4-6 | 2% | $2.25 |
-| dark-software-factory | 6 | 4,450 | 56,524 | 8,298,316 | claude-opus-4-6 | 2% | $2.35 |
-| assessment | 4 | 10,187 | 233,622 | 47,081,954 | claude-opus-4-6 | 13% | $13.30 |
-| web | 3 | 22,027 | 142,538 | 57,215,485 | claude-opus-4-6 | 16% | $16.13 |
-| Downloads | 1 | 240 | 20,699 | 2,999,560 | claude-opus-4-6 | 1% | $0.85 |
+| JOB-APPLICATIONS | 45 | 108,728 | 861,299 | 230,729,324 | claude-opus-4-6 | 61% | $61.33 |
+| jimmys-plan | 7 | 364 | 51,220 | 7,964,259 | claude-opus-4-6 | 2% | $2.12 |
+| dark-software-factory | 6 | 4,450 | 56,524 | 8,298,316 | claude-opus-4-6 | 2% | $2.21 |
+| assessment | 5 | 12,812 | 307,568 | 69,007,318 | claude-opus-4-6 | 18% | $18.35 |
+| web | 3 | 22,027 | 142,538 | 57,215,485 | claude-opus-4-6 | 15% | $15.19 |
+| Downloads | 1 | 240 | 20,699 | 2,999,560 | claude-opus-4-6 | 1% | $0.80 |
 | AIOS | 0 | -- | -- | -- | -- | -- | -- |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
-| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
-| app | 0 | -- | -- | -- | -- | -- | -- |
-| extension | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
-| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
-| tmp | 0 | -- | -- | -- | -- | -- | -- |
 | job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| extension | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| tmp | 0 | -- | -- | -- | -- | -- | -- |
+| app | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
 | claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **66** | **145,996** | **1,365,902** | **354,288,898** | claude-opus-4-6 | **100%** | **$100.00** |
+| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **67** | **148,621** | **1,439,848** | **376,214,262** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
