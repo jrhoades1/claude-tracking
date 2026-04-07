@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**April 2026** | Last updated: 2026-04-07 16:50 UTC
+**April 2026** | Last updated: 2026-04-07 17:00 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,39 +10,40 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 39 | 95,818 | 549,731 | 176,111,559 | claude-opus-4-6 | 71% | $70.56 |
-| jimmys-plan | 7 | 364 | 51,220 | 7,964,259 | claude-opus-4-6 | 3% | $3.20 |
-| dark-software-factory | 6 | 4,450 | 56,524 | 8,298,316 | claude-opus-4-6 | 3% | $3.34 |
-| web | 3 | 22,027 | 142,538 | 57,215,485 | claude-opus-4-6 | 23% | $22.91 |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| tmp | 0 | -- | -- | -- | -- | -- | -- |
-| worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| AIOS | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| app | 0 | -- | -- | -- | -- | -- | -- |
-| extension | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| JOB-APPLICATIONS | 39 | 95,818 | 549,731 | 176,111,559 | claude-opus-4-6 | 69% | $68.60 |
+| jimmys-plan | 7 | 364 | 51,220 | 7,964,259 | claude-opus-4-6 | 3% | $3.11 |
+| dark-software-factory | 6 | 4,450 | 56,524 | 8,298,316 | claude-opus-4-6 | 3% | $3.24 |
+| web | 3 | 22,027 | 142,538 | 57,215,485 | claude-opus-4-6 | 22% | $22.27 |
+| assessment | 1 | 2,497 | 47,628 | 7,082,729 | claude-opus-4-6 | 3% | $2.77 |
 | Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
 | ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
+| Downloads | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
 | ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| Downloads | 0 | -- | -- | -- | -- | -- | -- |
+| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| extension | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
 | Projects | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| app | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| tmp | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
 | NCAA | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **55** | **122,659** | **800,013** | **249,589,619** | claude-opus-4-6 | **100%** | **$100.00** |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **56** | **125,156** | **847,641** | **256,672,348** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
