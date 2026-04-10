@@ -2392,3 +2392,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-04-10,18:21:54,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,31c03397-e4c6-4b23-bce8-12d4458b5e5b,claude-opus-4-6,,985,134710,641809,51383283
 2026-04-10,18:22:31,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,31c03397-e4c6-4b23-bce8-12d4458b5e5b,claude-opus-4-6,,993,136102,644544,52235192
 2026-04-10,18:23:26,JOB-APPLICATIONS,c:\Users\Tracy\Projects\job-applications,31c03397-e4c6-4b23-bce8-12d4458b5e5b,claude-opus-4-6,,997,136420,645432,52663764
+2026-04-10,18:26:44,jimmys-plan,c:\Users\Tracy\Projects\jimmys-plan,a5ec3626-f238-4226-93f3-4731aa9b9f2a,claude-opus-4-6,,11224,48878,324878,9547427
