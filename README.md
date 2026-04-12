@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**April 2026** | Last updated: 2026-04-12 15:34 UTC
+**April 2026** | Last updated: 2026-04-12 15:36 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,7 +10,7 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 173 | 255,545 | 8,192,640 | 2,808,966,942 | claude-opus-4-6 | 80% | $80.35 |
+| JOB-APPLICATIONS | 174 | 255,569 | 8,198,179 | 2,809,499,364 | claude-opus-4-6 | 80% | $80.35 |
 | jimmys-plan | 37 | 104,720 | 1,250,021 | 335,690,833 | claude-opus-4-6 | 10% | $9.61 |
 | web | 11 | 46,226 | 492,313 | 143,148,984 | claude-opus-4-6 | 4% | $4.10 |
 | assessment | 10 | 20,774 | 558,180 | 191,105,362 | claude-opus-4-6 | 5% | $5.47 |
@@ -18,33 +18,33 @@
 | extension | 1 | 101 | 22,066 | 4,136,232 | claude-opus-4-6 | 0% | $0.12 |
 | Downloads | 1 | 240 | 20,699 | 2,999,560 | claude-opus-4-6 | 0% | $0.09 |
 | applications | 1 | 34 | 10,255 | 1,076,312 | claude-opus-4-6 | 0% | $0.03 |
-| AIOS | 0 | -- | -- | -- | -- | -- | -- |
 | ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
 | erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
 | tmp | 0 | -- | -- | -- | -- | -- | -- |
 | Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
-| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
-| worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
 | job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | app | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
 | claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **240** | **432,090** | **10,602,698** | **3,495,422,541** | claude-opus-4-6 | **100%** | **$100.00** |
+| **TOTAL** | **241** | **432,114** | **10,608,237** | **3,495,954,963** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
