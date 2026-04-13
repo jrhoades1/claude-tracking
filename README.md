@@ -10,41 +10,41 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 204 | 261,791 | 10,067,122 | 3,117,108,057 | claude-opus-4-6 | 82% | $81.81 |
+| JOB-APPLICATIONS | 205 | 261,812 | 10,070,517 | 3,117,548,347 | claude-opus-4-6 | 82% | $81.81 |
 | jimmys-plan | 37 | 104,720 | 1,250,021 | 335,690,833 | claude-opus-4-6 | 9% | $8.82 |
 | web | 13 | 46,398 | 539,808 | 149,323,197 | claude-opus-4-6 | 4% | $3.92 |
 | assessment | 10 | 20,774 | 558,180 | 191,105,362 | claude-opus-4-6 | 5% | $5.01 |
 | dark-software-factory | 6 | 4,450 | 56,524 | 8,298,316 | claude-opus-4-6 | 0% | $0.22 |
-| extension | 1 | 101 | 22,066 | 4,136,232 | claude-opus-4-6 | 0% | $0.11 |
 | applications | 1 | 34 | 10,255 | 1,076,312 | claude-opus-4-6 | 0% | $0.03 |
+| extension | 1 | 101 | 22,066 | 4,136,232 | claude-opus-4-6 | 0% | $0.11 |
 | Downloads | 1 | 240 | 20,699 | 2,999,560 | claude-opus-4-6 | 0% | $0.08 |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| app | 0 | -- | -- | -- | -- | -- | -- |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
-| AIOS | 0 | -- | -- | -- | -- | -- | -- |
-| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| NCAA | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
-| tmp | 0 | -- | -- | -- | -- | -- | -- |
 | 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| app | 0 | -- | -- | -- | -- | -- | -- |
 | Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
 | worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
-| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| tmp | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
 | erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **273** | **438,508** | **12,524,675** | **3,809,737,869** | claude-opus-4-6 | **100%** | **$100.00** |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **274** | **438,529** | **12,528,070** | **3,810,178,159** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
