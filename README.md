@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**April 2026** | Last updated: 2026-04-15 17:00 UTC
+**April 2026** | Last updated: 2026-04-15 17:01 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,42 +10,42 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 291 | 309,793 | 13,193,308 | 3,590,986,733 | claude-opus-4-6 | 76% | $76.20 |
-| jimmys-plan | 37 | 104,720 | 1,250,021 | 335,690,833 | claude-opus-4-6 | 7% | $7.13 |
-| web | 25 | 54,045 | 1,246,815 | 303,756,961 | claude-opus-4-6 | 6% | $6.45 |
-| medscribe-ai | 20 | 5,438 | 1,704,862 | 254,542,179 | claude-opus-4-6 | 5% | $5.42 |
-| assessment | 10 | 20,774 | 558,180 | 191,105,362 | claude-opus-4-6 | 4% | $4.05 |
+| JOB-APPLICATIONS | 291 | 309,793 | 13,193,308 | 3,590,986,733 | claude-opus-4-6 | 76% | $75.82 |
+| jimmys-plan | 37 | 104,720 | 1,250,021 | 335,690,833 | claude-opus-4-6 | 7% | $7.09 |
+| web | 25 | 54,045 | 1,246,815 | 303,756,961 | claude-opus-4-6 | 6% | $6.42 |
+| medscribe-ai | 21 | 5,920 | 1,851,705 | 278,064,590 | claude-opus-4-6 | 6% | $5.89 |
+| assessment | 10 | 20,774 | 558,180 | 191,105,362 | claude-opus-4-6 | 4% | $4.03 |
 | dark-software-factory | 7 | 4,833 | 173,011 | 27,441,110 | claude-opus-4-6 | 1% | $0.58 |
-| applications | 1 | 34 | 10,255 | 1,076,312 | claude-opus-4-6 | 0% | $0.02 |
-| extension | 1 | 101 | 22,066 | 4,136,232 | claude-opus-4-6 | 0% | $0.09 |
 | Downloads | 1 | 240 | 20,699 | 2,999,560 | claude-opus-4-6 | 0% | $0.06 |
+| extension | 1 | 101 | 22,066 | 4,136,232 | claude-opus-4-6 | 0% | $0.09 |
+| applications | 1 | 34 | 10,255 | 1,076,312 | claude-opus-4-6 | 0% | $0.02 |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
 | NCAA | 0 | -- | -- | -- | -- | -- | -- |
-| tmp | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
-| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
 | ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
+| tmp | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
 | Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
-| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
 | app | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **393** | **499,978** | **18,179,217** | **4,711,735,282** | claude-opus-4-6 | **100%** | **$100.00** |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **394** | **500,460** | **18,326,060** | **4,735,257,693** | claude-opus-4-6 | **100%** | **$100.00** |
 
 ## Skills Used
 
