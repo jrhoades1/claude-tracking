@@ -2762,3 +2762,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-04-16,19:02:28,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,ba0b8970-4794-400f-92fd-297ded9eaca9,claude-opus-4-7,,127,34010,204464,3057830
 2026-04-16,19:03:41,HL-PILOT,C:\Users\Tracy\Projects\higher-landing,ba0b8970-4794-400f-92fd-297ded9eaca9,claude-opus-4-7,,141,38142,208394,3460020
 2026-04-16,19:08:44,HL-PILOT,C:\Users\Tracy\Projects\higher-landing\.claude\worktrees\reverent-black-663172,e82c667e-8260-407b-be94-83ef37d7ce3a,claude-opus-4-7,,249,21016,437919,2329918
+2026-04-16,19:14:58,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,834a7092-d504-4a9b-8726-fc6c83ad9bbc,claude-opus-4-7,,92,26274,392074,3779569
