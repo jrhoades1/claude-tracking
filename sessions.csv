@@ -2934,3 +2934,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-04-21,21:27:46,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,1237527a-3d1b-47d4-9e9f-49090c032987,claude-opus-4-7,negotiation-coach,739,178485,942532,26481785
 2026-04-21,21:37:59,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,8b2acd8e-1268-4bdd-b438-a933616d9daa,claude-opus-4-7,,180,5131,269357,612404
 2026-04-21,21:55:57,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,8b2acd8e-1268-4bdd-b438-a933616d9daa,claude-opus-4-7,,215,12500,358470,1762479
+2026-04-21,21:57:54,web,C:\Users\Tracy\Projects\job-applications\apps\web,8b2acd8e-1268-4bdd-b438-a933616d9daa,claude-opus-4-7,,243,21023,375436,2952997
