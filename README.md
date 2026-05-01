@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**May 2026** | Last updated: 2026-05-01 15:39 UTC
+**May 2026** | Last updated: 2026-05-01 15:46 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,45 +10,45 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 8 | 1,871 | 313,772 | 31,237,935 | claude-opus-4-7 | 58% | $58.24 |
-| HL-PILOT | 2 | 36,057 | 274,345 | 22,316,221 | claude-opus-4-7 | 42% | $41.76 |
-| Downloads | 0 | -- | -- | -- | -- | -- | -- |
-| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| NCAA | 0 | -- | -- | -- | -- | -- | -- |
-| medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
-| AIOS | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| assessment | 0 | -- | -- | -- | -- | -- | -- |
-| applications | 0 | -- | -- | -- | -- | -- | -- |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
-| app | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| tmp | 0 | -- | -- | -- | -- | -- | -- |
-| worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| tax-2025 | 0 | -- | -- | -- | -- | -- | -- |
-| tool-results | 0 | -- | -- | -- | -- | -- | -- |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| extension | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| web | 0 | -- | -- | -- | -- | -- | -- |
+| JOB-APPLICATIONS | 8 | 1,871 | 313,772 | 31,237,935 | claude-opus-4-7 | 52% | $51.86 |
+| HL-PILOT | 2 | 36,057 | 274,345 | 22,316,221 | claude-opus-4-7 | 37% | $37.19 |
+| extension | 1 | 125 | 33,687 | 6,629,957 | claude-opus-4-7 | 11% | $10.95 |
 | job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
-| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
-| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
-| jimmys-plan | 0 | -- | -- | -- | -- | -- | -- |
+| app | 0 | -- | -- | -- | -- | -- | -- |
 | Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **10** | **37,928** | **588,117** | **53,554,156** | claude-opus-4-7 | **100%** | **$100.00** |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
+| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| assessment | 0 | -- | -- | -- | -- | -- | -- |
+| web | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
+| applications | 0 | -- | -- | -- | -- | -- | -- |
+| Downloads | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| tool-results | 0 | -- | -- | -- | -- | -- | -- |
+| tmp | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| tax-2025 | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| jimmys-plan | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **11** | **38,053** | **621,804** | **60,184,113** | claude-opus-4-7 | **100%** | **$100.00** |
 
 ## Project Expenses
 
