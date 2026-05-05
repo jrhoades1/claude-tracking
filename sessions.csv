@@ -3243,3 +3243,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-05-04,16:39:16,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,6cf0f93d-23c4-492c-b0a2-eb71540320c9,claude-opus-4-7,anthropic-skills:pdf,19431,430566,2319344,51078509
 2026-05-04,16:40:17,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,6cf0f93d-23c4-492c-b0a2-eb71540320c9,claude-opus-4-7,anthropic-skills:pdf,19443,438004,2330674,51915419
 2026-05-04,16:42:29,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,6cf0f93d-23c4-492c-b0a2-eb71540320c9,claude-opus-4-7,anthropic-skills:pdf,19458,439878,2339666,54049092
+2026-05-05,14:25:42,Downloads,C:\Users\Tracy\Downloads,2ca16733-4507-48d7-894d-2a48894920f5,claude-opus-4-7,anthropic-skills:docx,42,11371,267219,502442
