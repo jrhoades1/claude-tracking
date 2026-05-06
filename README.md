@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**May 2026** | Last updated: 2026-05-06 18:46 UTC
+**May 2026** | Last updated: 2026-05-06 18:50 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,46 +10,46 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 54 | 478,846 | 8,070,206 | 857,337,416 | claude-opus-4-7 | 33% | $33.27 |
-| jimmys-plan | 26 | 380,987 | 9,486,480 | 1,655,879,317 | claude-opus-4-7 | 64% | $64.01 |
-| HL-PILOT | 2 | 36,057 | 274,345 | 22,316,221 | claude-opus-4-7 | 1% | $0.87 |
-| extension | 1 | 125 | 33,687 | 6,629,957 | claude-opus-4-7 | 0% | $0.26 |
-| sample-artifacts | 1 | 19,204 | 326,350 | 34,052,718 | claude-opus-4-7 | 1% | $1.32 |
+| JOB-APPLICATIONS | 54 | 478,846 | 8,070,206 | 857,337,416 | claude-opus-4-7 | 32% | $32.04 |
+| jimmys-plan | 27 | 395,887 | 10,010,208 | 1,755,795,249 | claude-opus-4-7 | 65% | $65.35 |
+| HL-PILOT | 2 | 36,057 | 274,345 | 22,316,221 | claude-opus-4-7 | 1% | $0.84 |
+| sample-artifacts | 1 | 19,204 | 326,350 | 34,052,718 | claude-opus-4-7 | 1% | $1.27 |
+| tmp | 1 | 1,640 | 47,722 | 6,078,658 | claude-opus-4-7 | 0% | $0.23 |
+| extension | 1 | 125 | 33,687 | 6,629,957 | claude-opus-4-7 | 0% | $0.25 |
 | Downloads | 1 | 42 | 11,371 | 769,661 | claude-opus-4-7 | 0% | $0.03 |
-| tmp | 1 | 1,640 | 47,722 | 6,078,658 | claude-opus-4-7 | 0% | $0.24 |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
-| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| tax-2025 | 0 | -- | -- | -- | -- | -- | -- |
-| app | 0 | -- | -- | -- | -- | -- | -- |
-| worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| web | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| AIOS | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
-| NCAA | 0 | -- | -- | -- | -- | -- | -- |
-| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| assessment | 0 | -- | -- | -- | -- | -- | -- |
 | ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| tax-2025 | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
 | ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
 | tool-results | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
+| app | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
 | erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| web | 0 | -- | -- | -- | -- | -- | -- |
 | applications | 0 | -- | -- | -- | -- | -- | -- |
-| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| assessment | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **86** | **916,901** | **18,250,161** | **2,583,063,948** | claude-opus-4-7 | **100%** | **$100.00** |
+| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **87** | **931,801** | **18,773,889** | **2,682,979,880** | claude-opus-4-7 | **100%** | **$100.00** |
 
 ## Skills Used
 
