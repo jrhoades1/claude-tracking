@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**May 2026** | Last updated: 2026-05-06 19:32 UTC
+**May 2026** | Last updated: 2026-05-06 19:37 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,46 +10,46 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 54 | 478,846 | 8,070,206 | 857,337,416 | claude-opus-4-7 | 20% | $20.33 |
-| jimmys-plan | 39 | 576,227 | 17,451,675 | 3,303,997,246 | claude-opus-4-7 | 78% | $78.01 |
-| HL-PILOT | 2 | 36,057 | 274,345 | 22,316,221 | claude-opus-4-7 | 1% | $0.53 |
-| extension | 1 | 125 | 33,687 | 6,629,957 | claude-opus-4-7 | 0% | $0.16 |
-| tmp | 1 | 1,640 | 47,722 | 6,078,658 | claude-opus-4-7 | 0% | $0.14 |
+| JOB-APPLICATIONS | 54 | 478,846 | 8,070,206 | 857,337,416 | claude-opus-4-7 | 20% | $19.63 |
+| jimmys-plan | 40 | 591,372 | 18,140,734 | 3,455,642,033 | claude-opus-4-7 | 79% | $78.77 |
+| HL-PILOT | 2 | 36,057 | 274,345 | 22,316,221 | claude-opus-4-7 | 1% | $0.51 |
 | Downloads | 1 | 42 | 11,371 | 769,661 | claude-opus-4-7 | 0% | $0.02 |
-| sample-artifacts | 1 | 19,204 | 326,350 | 34,052,718 | claude-opus-4-7 | 1% | $0.81 |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| applications | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| sample-artifacts | 1 | 19,204 | 326,350 | 34,052,718 | claude-opus-4-7 | 1% | $0.78 |
+| tmp | 1 | 1,640 | 47,722 | 6,078,658 | claude-opus-4-7 | 0% | $0.14 |
+| extension | 1 | 125 | 33,687 | 6,629,957 | claude-opus-4-7 | 0% | $0.15 |
 | AIOS | 0 | -- | -- | -- | -- | -- | -- |
-| assessment | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
-| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| app | 0 | -- | -- | -- | -- | -- | -- |
 | EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
 | medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
-| NCAA | 0 | -- | -- | -- | -- | -- | -- |
-| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
 | erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| tool-results | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
 | tax-2025 | 0 | -- | -- | -- | -- | -- | -- |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
-| web | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
-| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
 | mnt | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **99** | **1,112,141** | **26,215,356** | **4,231,181,877** | claude-opus-4-7 | **100%** | **$100.00** |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| app | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
+| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
+| applications | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
+| tool-results | 0 | -- | -- | -- | -- | -- | -- |
+| assessment | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| job-application-system | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| web | 0 | -- | -- | -- | -- | -- | -- |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **100** | **1,127,286** | **26,904,415** | **4,382,826,664** | claude-opus-4-7 | **100%** | **$100.00** |
 
 ## Skills Used
 
