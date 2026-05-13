@@ -3351,3 +3351,4 @@ date,time_utc,project_code,cwd,session_id,model,skill,input_tokens,output_tokens
 2026-05-13,13:56:55,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,e7cb461e-431a-4a61-bea9-066fe40df22b,claude-opus-4-7,,1253,857444,5906198,62165395
 2026-05-13,13:58:14,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,e7cb461e-431a-4a61-bea9-066fe40df22b,claude-opus-4-7,,1265,858598,5909610,62933815
 2026-05-13,14:01:13,infallible-brahmagupta-a8470b,C:\Users\Tracy\Projects\job-applications\.claude\worktrees\infallible-brahmagupta-a8470b,e574d7b4-eb71-4b68-9940-cce7e15d645c,claude-opus-4-7,"cover-letter-writer,resume-tailor",109,58802,349410,7858761
+2026-05-13,18:30:19,JOB-APPLICATIONS,C:\Users\Tracy\Projects\job-applications,6cf0f93d-23c4-492c-b0a2-eb71540320c9,claude-opus-4-7,anthropic-skills:pdf,23216,480011,3705141,65903265
