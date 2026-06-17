@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**June 2026** | Last updated: 2026-06-16 23:28 UTC
+**June 2026** | Last updated: 2026-06-17 16:20 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,50 +10,50 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| JOB-APPLICATIONS | 8 | 206,102 | 1,598,756 | 188,441,989 | claude-opus-4-7, claude-opus-4-8 | 98% | $97.60 |
-| web | 1 | 117,489 | 53,002 | 4,517,417 | claude-opus-4-8 | 2% | $2.40 |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
-| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
-| sample-artifacts | 0 | -- | -- | -- | -- | -- | -- |
-| extension | 0 | -- | -- | -- | -- | -- | -- |
-| applications | 0 | -- | -- | -- | -- | -- | -- |
-| jimmys-plan | 0 | -- | -- | -- | -- | -- | -- |
-| app | 0 | -- | -- | -- | -- | -- | -- |
-| medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
-| intelligent-solomon-bf5709 | 0 | -- | -- | -- | -- | -- | -- |
-| tmp | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
-| NCAA | 0 | -- | -- | -- | -- | -- | -- |
-| unruffled-shaw-b9f85b | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| Downloads | 0 | -- | -- | -- | -- | -- | -- |
-| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
-| tool-results | 0 | -- | -- | -- | -- | -- | -- |
-| assessment | 0 | -- | -- | -- | -- | -- | -- |
-| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
-| tax-2025 | 0 | -- | -- | -- | -- | -- | -- |
+| JOB-APPLICATIONS | 9 | 325,042 | 1,729,460 | 199,842,881 | claude-opus-4-7, claude-opus-4-8 | 98% | $97.73 |
+| web | 1 | 117,489 | 53,002 | 4,517,417 | claude-opus-4-8 | 2% | $2.27 |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
-| infallible-brahmagupta-a8470b | 0 | -- | -- | -- | -- | -- | -- |
-| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| musing-rubin-3b4011 | 0 | -- | -- | -- | -- | -- | -- |
-| AIOS | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
 | communications | 0 | -- | -- | -- | -- | -- | -- |
+| musing-rubin-3b4011 | 0 | -- | -- | -- | -- | -- | -- |
+| applications | 0 | -- | -- | -- | -- | -- | -- |
+| tool-results | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
+| higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
+| extension | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| app | 0 | -- | -- | -- | -- | -- | -- |
+| Downloads | 0 | -- | -- | -- | -- | -- | -- |
+| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 0 | -- | -- | -- | -- | -- | -- |
+| jimmys-plan | 0 | -- | -- | -- | -- | -- | -- |
+| assessment | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
 | worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **9** | **323,591** | **1,651,758** | **192,959,406** | claude-opus-4-7, claude-opus-4-8 | **100%** | **$100.00** |
+| medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
+| tax-2025 | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
+| tmp | 0 | -- | -- | -- | -- | -- | -- |
+| intelligent-solomon-bf5709 | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| infallible-brahmagupta-a8470b | 0 | -- | -- | -- | -- | -- | -- |
+| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
+| Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
+| unruffled-shaw-b9f85b | 0 | -- | -- | -- | -- | -- | -- |
+| sample-artifacts | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **10** | **442,531** | **1,782,462** | **204,360,298** | claude-opus-4-7, claude-opus-4-8 | **100%** | **$100.00** |
 
 ## Skills Used
 
@@ -62,6 +62,7 @@
 | company-research | 1 | JOB-APPLICATIONS |
 | interview-debrief | 1 | JOB-APPLICATIONS |
 | interview-prep-builder | 1 | JOB-APPLICATIONS |
+| schedule | 1 | JOB-APPLICATIONS |
 
 ## Project Expenses
 
