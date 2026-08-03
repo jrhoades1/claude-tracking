@@ -1,6 +1,6 @@
 # Claude Code Spend Dashboard
 
-**August 2026** | Last updated: 2026-08-03 17:56 UTC
+**August 2026** | Last updated: 2026-08-03 21:25 UTC
 
 > **Plan:** Claude Pro ($100.00/mo)
 >
@@ -10,50 +10,50 @@
 
 | Project | Sessions | Input | Output | Cache | Models | Share | Allocated |
 |---------|----------|-------|--------|-------|--------|-------|-----------|
-| ALD-CALL-ANALYSIS | 11 | 14,369 | 1,389,230 | 155,587,851 | claude-opus-4-8, claude-opus-5 | 36% | $36.11 |
-| JOB-APPLICATIONS | 10 | 6,399 | 951,579 | 194,988,647 | claude-opus-5 | 45% | $45.07 |
-| web | 4 | 4,151 | 413,148 | 81,365,389 | claude-opus-5 | 19% | $18.81 |
-| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
-| NCAA | 0 | -- | -- | -- | -- | -- | -- |
-| Tracy | 0 | -- | -- | -- | -- | -- | -- |
-| medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
-| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
-| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
-| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
-| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
-| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
-| assessment | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-CALL-ANALYSIS | 11 | 14,369 | 1,389,230 | 155,587,851 | claude-opus-4-8, claude-opus-5 | 35% | $34.67 |
+| JOB-APPLICATIONS | 10 | 6,399 | 951,579 | 194,988,647 | claude-opus-5 | 43% | $43.28 |
+| web | 4 | 4,151 | 413,148 | 81,365,389 | claude-opus-5 | 18% | $18.06 |
+| Downloads | 1 | 975 | 252,057 | 17,780,353 | claude-opus-4-8 | 4% | $3.98 |
 | infallible-brahmagupta-a8470b | 0 | -- | -- | -- | -- | -- | -- |
-| musing-rubin-3b4011 | 0 | -- | -- | -- | -- | -- | -- |
-| communications | 0 | -- | -- | -- | -- | -- | -- |
 | tool-results | 0 | -- | -- | -- | -- | -- | -- |
-| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
-| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
-| intelligent-solomon-bf5709 | 0 | -- | -- | -- | -- | -- | -- |
-| unruffled-shaw-b9f85b | 0 | -- | -- | -- | -- | -- | -- |
-| jimmys-plan | 0 | -- | -- | -- | -- | -- | -- |
+| Projects | 0 | -- | -- | -- | -- | -- | -- |
 | claude-tracking | 0 | -- | -- | -- | -- | -- | -- |
-| worktrees | 0 | -- | -- | -- | -- | -- | -- |
-| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| job-app-assistant | 0 | -- | -- | -- | -- | -- | -- |
+| ALD-SERVICETITAN | 0 | -- | -- | -- | -- | -- | -- |
 | tax-2025 | 0 | -- | -- | -- | -- | -- | -- |
+| applications | 0 | -- | -- | -- | -- | -- | -- |
+| intelligent-solomon-bf5709 | 0 | -- | -- | -- | -- | -- | -- |
+| VENT-THREAD | 0 | -- | -- | -- | -- | -- | -- |
+| musing-rubin-3b4011 | 0 | -- | -- | -- | -- | -- | -- |
+| inlet-consulting-site | 0 | -- | -- | -- | -- | -- | -- |
+| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
+| NCAA | 0 | -- | -- | -- | -- | -- | -- |
 | dark-software-factory | 0 | -- | -- | -- | -- | -- | -- |
 | tmp | 0 | -- | -- | -- | -- | -- | -- |
+| medscribe-ai | 0 | -- | -- | -- | -- | -- | -- |
+| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
+| Tracy | 0 | -- | -- | -- | -- | -- | -- |
+| nicoles-project | 0 | -- | -- | -- | -- | -- | -- |
+| sample-artifacts | 0 | -- | -- | -- | -- | -- | -- |
+| communications | 0 | -- | -- | -- | -- | -- | -- |
+| mnt | 0 | -- | -- | -- | -- | -- | -- |
+| vent-thread | 0 | -- | -- | -- | -- | -- | -- |
+| unruffled-shaw-b9f85b | 0 | -- | -- | -- | -- | -- | -- |
+| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
+| ald-monday-digest | 0 | -- | -- | -- | -- | -- | -- |
+| EASTER-ISLAND | 0 | -- | -- | -- | -- | -- | -- |
+| worktrees | 0 | -- | -- | -- | -- | -- | -- |
 | higher-landing | 0 | -- | -- | -- | -- | -- | -- |
+| AIOS | 0 | -- | -- | -- | -- | -- | -- |
 | Misc Folder | 0 | -- | -- | -- | -- | -- | -- |
 | extension | 0 | -- | -- | -- | -- | -- | -- |
-| applications | 0 | -- | -- | -- | -- | -- | -- |
-| Claude Setup | 0 | -- | -- | -- | -- | -- | -- |
-| ald-call-analysis | 0 | -- | -- | -- | -- | -- | -- |
-| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
-| sample-artifacts | 0 | -- | -- | -- | -- | -- | -- |
-| AIOS | 0 | -- | -- | -- | -- | -- | -- |
-| Downloads | 0 | -- | -- | -- | -- | -- | -- |
-| HL-PILOT | 0 | -- | -- | -- | -- | -- | -- |
-| Projects | 0 | -- | -- | -- | -- | -- | -- |
 | app | 0 | -- | -- | -- | -- | -- | -- |
-| mnt | 0 | -- | -- | -- | -- | -- | -- |
 | job-application-system | 0 | -- | -- | -- | -- | -- | -- |
-| **TOTAL** | **25** | **24,919** | **2,753,957** | **431,941,887** | claude-opus-4-8, claude-opus-5 | **100%** | **$100.00** |
+| erin-materials-2026-03-12 | 0 | -- | -- | -- | -- | -- | -- |
+| jimmys-plan | 0 | -- | -- | -- | -- | -- | -- |
+| 2026-02-24_chenmed_senior-director-software-engineering | 0 | -- | -- | -- | -- | -- | -- |
+| assessment | 0 | -- | -- | -- | -- | -- | -- |
+| **TOTAL** | **26** | **25,894** | **3,006,014** | **449,722,240** | claude-opus-4-8, claude-opus-5 | **100%** | **$100.00** |
 
 ## Skills Used
 
